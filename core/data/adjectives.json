@@ -1,0 +1,1025 @@
+{
+    "adjectives": [
+
+        {
+            "ita":"questo",
+            "eng":"this"
+        },
+
+        {
+            "ita":"quello",
+            "eng":"one"
+        },
+
+        {
+            "ita":"più",
+            "eng":"more"
+        },
+
+        {
+            "ita":"tutto",
+            "eng":"all"
+        },
+
+        {
+            "ita":"suo",
+            "eng":"his"
+        },
+
+        {
+            "ita":"altro",
+            "eng":"other"
+        },
+
+        {
+            "ita":"mio",
+            "eng":"my"
+        },
+
+        {
+            "ita":"quale",
+            "eng":"which"
+        },
+
+        {
+            "ita":"tanto",
+            "eng":"much"
+        },
+
+        {
+            "ita":"grande",
+            "eng":"great"
+        },
+
+        {
+            "ita":"poco",
+            "eng":"little"
+        },
+
+        {
+            "ita":"molto",
+            "eng":"very"
+        },
+
+        {
+            "ita":"nostro",
+            "eng":"our"
+        },
+
+        {
+            "ita":"stesso",
+            "eng":"same"
+        },
+
+        {
+            "ita":"primo",
+            "eng":"first"
+        },
+
+        {
+            "ita":"loro",
+            "eng":"their"
+        },
+
+        {
+            "ita":"ogni",
+            "eng":"every"
+        },
+
+        {
+            "ita":"proprio",
+            "eng":"own"
+        },
+
+        {
+            "ita":"solo",
+            "eng":"only"
+        },
+
+        {
+            "ita":"quanto",
+            "eng":"how much"
+        },
+
+        {
+            "ita":"bello",
+            "eng":"beautiful"
+        },
+
+        {
+            "ita":"qualche",
+            "eng":"some"
+        },
+
+        {
+            "ita":"nuovo",
+            "eng":"new"
+        },
+
+        {
+            "ita":"certo",
+            "eng":"of course"
+        },
+
+        {
+            "ita":"vero",
+            "eng":"true"
+        },
+
+        {
+            "ita":"buono",
+            "eng":"good"
+        },
+
+        {
+            "ita":"tuo",
+            "eng":"your"
+        },
+
+        {
+            "ita":"nessuno",
+            "eng":"nobody"
+        },
+
+        {
+            "ita":"alcuno",
+            "eng":"any"
+        },
+
+        {
+            "ita":"italiano",
+            "eng":"Italian"
+        },
+
+        {
+            "ita":"ultimo",
+            "eng":"last"
+        },
+
+        {
+            "ita":"vecchio",
+            "eng":"old"
+        },
+
+        {
+            "ita":"piccolo",
+            "eng":"small"
+        },
+
+        {
+            "ita":"troppo",
+            "eng":"too much"
+        },
+
+        {
+            "ita":"tale",
+            "eng":"such"
+        },
+
+        {
+            "ita":"giovane",
+            "eng":"young"
+        },
+
+        {
+            "ita":"alto",
+            "eng":"tall"
+        },
+
+        {
+            "ita":"vostro",
+            "eng":"your"
+        },
+
+        {
+            "ita":"diverso",
+            "eng":"different"
+        },
+
+        {
+            "ita":"meglio",
+            "eng":"better"
+        },
+
+        {
+            "ita":"lungo",
+            "eng":"long"
+        },
+
+        {
+            "ita":"povero",
+            "eng":"poor"
+        },
+
+        {
+            "ita":"maggiore",
+            "eng":"greater"
+        },
+
+        {
+            "ita":"mezzo",
+            "eng":"half"
+        },
+
+        {
+            "ita":"secondo",
+            "eng":"second"
+        },
+
+        {
+            "ita":"lontano",
+            "eng":"far"
+        },
+
+        {
+            "ita":"vicino",
+            "eng":"close"
+        },
+
+        {
+            "ita":"possibile",
+            "eng":"possible"
+        },
+
+        {
+            "ita":"caro",
+            "eng":"Dear"
+        },
+
+        {
+            "ita":"pieno",
+            "eng":"full"
+        },
+
+        {
+            "ita":"nero",
+            "eng":"black"
+        },
+
+        {
+            "ita":"particolare",
+            "eng":"particular"
+        },
+
+        {
+            "ita":"bianco",
+            "eng":"White"
+        },
+
+        {
+            "ita":"forte",
+            "eng":"strong"
+        },
+
+        {
+            "ita":"politico",
+            "eng":"politic"
+        },
+
+        {
+            "ita":"attuale",
+            "eng":"current"
+        },
+
+        {
+            "ita":"latino",
+            "eng":"Latin"
+        },
+
+        {
+            "ita":"impossibile",
+            "eng":"impossible"
+        },
+
+        {
+            "ita":"sereno",
+            "eng":"serene"
+        },
+
+        {
+            "ita":"puro",
+            "eng":"pure"
+        },
+
+        {
+            "ita":"normale",
+            "eng":"normal"
+        },
+
+        {
+            "ita":"perfetto",
+            "eng":"perfect"
+        },
+
+        {
+            "ita":"piano",
+            "eng":"plan"
+        },
+
+        {
+            "ita":"caratteristico",
+            "eng":"characteristic"
+        },
+
+        {
+            "ita":"russo",
+            "eng":"Russian"
+        },
+
+        {
+            "ita":"continuo",
+            "eng":"continuous"
+        },
+
+        {
+            "ita":"stupido",
+            "eng":"stupid"
+        },
+
+        {
+            "ita":"estremo",
+            "eng":"extreme"
+        },
+
+        {
+            "ita":"grigio",
+            "eng":"grey"
+        },
+
+        {
+            "ita":"reale",
+            "eng":"real"
+        },
+
+        {
+            "ita":"interessante",
+            "eng":"Interesting"
+        },
+
+        {
+            "ita":"medesimo",
+            "eng":"same"
+        },
+
+        {
+            "ita":"religioso",
+            "eng":"religious"
+        },
+
+        {
+            "ita":"ampio",
+            "eng":"large"
+        },
+
+        {
+            "ita":"biondo",
+            "eng":"blond"
+        },
+
+        {
+            "ita":"ufficiale",
+            "eng":"official"
+        },
+
+        {
+            "ita":"attento",
+            "eng":"careful"
+        },
+
+        {
+            "ita":"enorme",
+            "eng":"huge"
+        },
+
+        {
+            "ita":"sottile",
+            "eng":"thin"
+        },
+
+        {
+            "ita":"triste",
+            "eng":"sad"
+        },
+
+        {
+            "ita":"minimo",
+            "eng":"minimum"
+        },
+
+        {
+            "ita":"privato",
+            "eng":"private"
+        },
+
+        {
+            "ita":"rapido",
+            "eng":"rapid"
+        },
+
+        {
+            "ita":"quarto",
+            "eng":"fourth"
+        },
+
+        {
+            "ita":"diretto",
+            "eng":"direct"
+        },
+
+        {
+            "ita":"nobile",
+            "eng":"noble"
+        },
+
+        {
+            "ita":"pericoloso",
+            "eng":"dangerous"
+        },
+
+        {
+            "ita":"giallo",
+            "eng":"yellow"
+        },
+
+        {
+            "ita":"pazzo",
+            "eng":"crazy"
+        },
+
+        {
+            "ita":"sacro",
+            "eng":"sacred"
+        },
+
+        {
+            "ita":"comodo",
+            "eng":"comfortable"
+        },
+
+        {
+            "ita":"elettrico",
+            "eng":"electric"
+        },
+
+        {
+            "ita":"assoluto",
+            "eng":"absolute"
+        },
+
+        {
+            "ita":"cristiano",
+            "eng":"Christian"
+        },
+
+        {
+            "ita":"antico",
+            "eng":"ancient"
+        },
+
+        {
+            "ita":"rosso",
+            "eng":"red"
+        },
+
+        {
+            "ita":"chiaro",
+            "eng":"clear"
+        },
+
+        {
+            "ita":"unico",
+            "eng":"single"
+        },
+
+        {
+            "ita":"sicuro",
+            "eng":"sure"
+        },
+
+        {
+            "ita":"importante",
+            "eng":"important"
+        },
+
+        {
+            "ita":"vario",
+            "eng":"varied"
+        },
+
+        {
+            "ita":"giusto",
+            "eng":"quite right"
+        },
+
+        {
+            "ita":"francese",
+            "eng":"French"
+        },
+
+        {
+            "ita":"vivo",
+            "eng":"I live"
+        },
+
+        {
+            "ita":"generale",
+            "eng":"general"
+        },
+
+        {
+            "ita":"ricco",
+            "eng":"rich"
+        },
+
+        {
+            "ita":"grosso",
+            "eng":"big"
+        },
+
+        {
+            "ita":"necessario",
+            "eng":"necessary"
+        },
+
+        {
+            "ita":"libero",
+            "eng":"free"
+        },
+
+        {
+            "ita":"nazionale",
+            "eng":"national"
+        },
+
+        {
+            "ita":"basso",
+            "eng":"bass"
+        },
+
+        {
+            "ita":"semplice",
+            "eng":"simple"
+        },
+
+        {
+            "ita":"grave",
+            "eng":"serious"
+        },
+
+        {
+            "ita":"pubblico",
+            "eng":"public"
+        },
+
+        {
+            "ita":"comune",
+            "eng":"common"
+        },
+
+        {
+            "ita":"freddo",
+            "eng":"cold"
+        },
+
+        {
+            "ita":"economico",
+            "eng":"cheap"
+        },
+
+        {
+            "ita":"felice",
+            "eng":"happy"
+        },
+
+        {
+            "ita":"difficile",
+            "eng":"difficult"
+        },
+
+        {
+            "ita":"tedesco",
+            "eng":"german"
+        },
+
+        {
+            "ita":"breve",
+            "eng":"short"
+        },
+
+        {
+            "ita":"pronto",
+            "eng":"ready"
+        },
+
+        {
+            "ita":"serio",
+            "eng":"serious"
+        },
+
+        {
+            "ita":"presente",
+            "eng":"here I'm"
+        },
+
+        {
+            "ita":"migliore",
+            "eng":"best"
+        },
+
+        {
+            "ita":"facile",
+            "eng":"easy"
+        },
+
+        {
+            "ita":"terzo",
+            "eng":"third"
+        },
+
+        {
+            "ita":"caldo",
+            "eng":"hot"
+        },
+
+        {
+            "ita":"estero",
+            "eng":"abroad"
+        },
+
+        {
+            "ita":"largo",
+            "eng":"wide"
+        },
+
+        {
+            "ita":"pricipale",
+            "eng":"pricipale"
+        },
+
+        {
+            "ita":"verde",
+            "eng":"green"
+        },
+
+        {
+            "ita":"romano",
+            "eng":"Roman"
+        },
+
+        {
+            "ita":"umano",
+            "eng":"human"
+        },
+
+        {
+            "ita":"inutile",
+            "eng":"useless"
+        },
+
+        {
+            "ita":"moderno",
+            "eng":"modern"
+        },
+
+        {
+            "ita":"numeroso",
+            "eng":"numerous"
+        },
+
+        {
+            "ita":"simile",
+            "eng":"similar"
+        },
+
+        {
+            "ita":"fresco",
+            "eng":"fresh"
+        },
+
+        {
+            "ita":"militare",
+            "eng":"military"
+        },
+
+        {
+            "ita":"americano",
+            "eng":"American"
+        },
+
+        {
+            "ita":"vuoto",
+            "eng":"empty"
+        },
+
+        {
+            "ita":"ciascuno",
+            "eng":"each"
+        },
+
+        {
+            "ita":"tranquillo",
+            "eng":"quiet"
+        },
+
+        {
+            "ita":"contento",
+            "eng":"happy"
+        },
+
+        {
+            "ita":"storico",
+            "eng":"historical"
+        },
+
+        {
+            "ita":"superiore",
+            "eng":"higher"
+        },
+
+        {
+            "ita":"inglese",
+            "eng":"eng"
+        },
+
+        {
+            "ita":"fermo",
+            "eng":"stationary"
+        },
+
+        {
+            "ita":"solito",
+            "eng":"usual"
+        },
+
+        {
+            "ita":"buio",
+            "eng":"dark"
+        },
+
+        {
+            "ita":"strano",
+            "eng":"strange"
+        },
+
+        {
+            "ita":"noto",
+            "eng":"known"
+        },
+
+        {
+            "ita":"prossimo",
+            "eng":"next one"
+        },
+
+        {
+            "ita":"profondo",
+            "eng":"deep"
+        },
+
+        {
+            "ita":"sociale",
+            "eng":"social"
+        },
+
+        {
+            "ita":"cattivo",
+            "eng":"bad"
+        },
+
+        {
+            "ita":"massimo",
+            "eng":"maximum"
+        },
+
+        {
+            "ita":"intero",
+            "eng":"full"
+        },
+
+        {
+            "ita":"uguale",
+            "eng":"equal"
+        },
+
+        {
+            "ita":"bravo",
+            "eng":"good boy"
+        },
+
+        {
+            "ita":"brutto",
+            "eng":"ugly"
+        },
+
+        {
+            "ita":"preciso",
+            "eng":"accurate"
+        },
+
+        {
+            "ita":"qualsiasi",
+            "eng":"any"
+        },
+
+        {
+            "ita":"improvviso",
+            "eng":"sudden"
+        },
+
+        {
+            "ita":"famoso",
+            "eng":"famous"
+        },
+
+        {
+            "ita":"straniero",
+            "eng":"foreigner"
+        },
+
+        {
+            "ita":"civile",
+            "eng":"civil"
+        },
+
+        {
+            "ita":"internazionale",
+            "eng":"international"
+        },
+
+        {
+            "ita":"interno",
+            "eng":"internal"
+        },
+
+        {
+            "ita":"vasto",
+            "eng":"extensive"
+        },
+
+        {
+            "ita":"segreto",
+            "eng":"secret"
+        },
+
+        {
+            "ita":"greco",
+            "eng":"Greek"
+        },
+
+        {
+            "ita":"naturale",
+            "eng":"natural"
+        },
+
+        {
+            "ita":"sinistro",
+            "eng":"left"
+        },
+
+        {
+            "ita":"duro",
+            "eng":"hard"
+        },
+
+        {
+            "ita":"stanco",
+            "eng":"tired"
+        },
+
+        {
+            "ita":"azzurro",
+            "eng":"light blue"
+        },
+
+        {
+            "ita":"recente",
+            "eng":"recent"
+        },
+
+        {
+            "ita":"notevole",
+            "eng":"remarkable"
+        },
+
+        {
+            "ita":"cittadino",
+            "eng":"citizen"
+        },
+
+        {
+            "ita":"destro",
+            "eng":"right"
+        },
+
+        {
+            "ita":"europeo",
+            "eng":"European"
+        },
+
+        {
+            "ita":"zitto",
+            "eng":"quiet"
+        },
+
+        {
+            "ita":"medio",
+            "eng":"average"
+        },
+
+        {
+            "ita":"qualunque",
+            "eng":"whatever"
+        },
+
+        {
+            "ita":"straordinario",
+            "eng":"extraordinary"
+        },
+
+        {
+            "ita":"nudo",
+            "eng":"naked"
+        },
+
+        {
+            "ita":"futuro",
+            "eng":"future"
+        },
+
+        {
+            "ita":"cattolico",
+            "eng":"Catholic"
+        },
+
+        {
+            "ita":"capace",
+            "eng":"able"
+        },
+
+        {
+            "ita":"industriale",
+            "eng":"industrial"
+        },
+
+        {
+            "ita":"personale",
+            "eng":"staff"
+        },
+
+        {
+            "ita":"centrale",
+            "eng":"central"
+        },
+
+        {
+            "ita":"tecnico",
+            "eng":"technical"
+        },
+
+        {
+            "ita":"dolce",
+            "eng":"sweet"
+        },
+
+        {
+            "ita":"leggero",
+            "eng":"light"
+        },
+
+        {
+            "ita":"morale",
+            "eng":"moral"
+        },
+
+        {
+            "ita":"utile",
+            "eng":"helpful"
+        },
+
+        {
+            "ita":"contrario",
+            "eng":"contrary"
+        },
+
+        {
+            "ita":"speciale",
+            "eng":"special"
+        },
+
+        {
+            "ita":"peggio",
+            "eng":"worse"
+        },
+
+        {
+            "ita":"minore",
+            "eng":"lower"
+        },
+
+        {
+            "ita":"contadino",
+            "eng":"farmer"
+        }
+
+    ]
+}

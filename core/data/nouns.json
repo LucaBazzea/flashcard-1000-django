@@ -1,0 +1,1909 @@
+{
+    "nouns": [
+        
+		{
+            "ita":"giardino",
+            "eng":"garden"
+        },
+
+		{
+            "ita":"attività",
+            "eng":"activities"
+        },
+
+		{
+            "ita":"volontà",
+            "eng":"will"
+        },
+
+		{
+            "ita":"volto",
+            "eng":"face"
+        },
+
+		{
+            "ita":"base",
+            "eng":"basis"
+        },
+
+		{
+            "ita":"carattere",
+            "eng":"character"
+        },
+
+		{
+            "ita":"coscienza",
+            "eng":"consciousness"
+        },
+
+		{
+            "ita":"guardia",
+            "eng":"guard"
+        },
+
+		{
+            "ita":"memoria",
+            "eng":"memory"
+        },
+
+		{
+            "ita":"terreno",
+            "eng":"ground"
+        },
+
+		{
+            "ita":"animale",
+            "eng":"animal"
+        },
+
+		{
+            "ita":"direzione",
+            "eng":"direction"
+        },
+
+		{
+            "ita":"eccellenza",
+            "eng":"excellence"
+        },
+
+		{
+            "ita":"malattia",
+            "eng":"disease"
+        },
+
+		{
+            "ita":"scienza",
+            "eng":"science"
+        },
+
+		{
+            "ita":"funzione",
+            "eng":"function"
+        },
+
+		{
+            "ita":"conseguenza",
+            "eng":"result"
+        },
+
+		{
+            "ita":"parete",
+            "eng":"wall"
+        },
+
+		{
+            "ita":"dente",
+            "eng":"tooth"
+        },
+
+		{
+            "ita":"distanza",
+            "eng":"distance"
+        },
+
+		{
+            "ita":"gusto",
+            "eng":"taste"
+        },
+
+		{
+            "ita":"impressione",
+            "eng":"impression"
+        },
+
+		{
+            "ita":"istituto",
+            "eng":"institute"
+        },
+
+		{
+            "ita":"quadro",
+            "eng":"painting"
+        },
+
+		{
+            "ita":"attenzione",
+            "eng":"attention"
+        },
+
+		{
+            "ita":"autore",
+            "eng":"author"
+        },
+
+		{
+            "ita":"difficoltà",
+            "eng":"difficulty"
+        },
+
+		{
+            "ita":"passione",
+            "eng":"passion"
+        },
+
+		{
+            "ita":"commissione",
+            "eng":"commission"
+        },
+
+		{
+            "ita":"dito",
+            "eng":"finger"
+        },
+
+		{
+            "ita":"inizio",
+            "eng":"Start"
+        },
+
+		{
+            "ita":"programma",
+            "eng":"program"
+        },
+
+		{
+            "ita":"spettacolo",
+            "eng":"show"
+        },
+
+		{
+            "ita":"titolo",
+            "eng":"title"
+        },
+
+		{
+            "ita":"comunicazione",
+            "eng":"communication"
+        },
+
+		{
+            "ita":"fenomeno",
+            "eng":"phenomenon"
+        },
+
+		{
+            "ita":"maggio",
+            "eng":"May"
+        },
+
+		{
+            "ita":"stampa",
+            "eng":"press"
+        },
+
+		{
+            "ita":"denaro",
+            "eng":"money"
+        },
+
+		{
+            "ita":"destino",
+            "eng":"destiny"
+        },
+
+		{
+            "ita":"dovere",
+            "eng":"duty"
+        },
+
+		{
+            "ita":"ferro",
+            "eng":"iron"
+        },
+
+		{
+            "ita":"punta",
+            "eng":"tip"
+        },
+
+		{
+            "ita":"regno",
+            "eng":"kingdom"
+        },
+
+		{
+            "ita":"epoca",
+            "eng":"era"
+        },
+
+		{
+            "ita":"luna",
+            "eng":"moon"
+        },
+
+		{
+            "ita":"provincia",
+            "eng":"province"
+        },
+
+		{
+            "ita":"voglia",
+            "eng":"wish"
+        },
+
+		{
+            "ita":"differenza",
+            "eng":"difference"
+        },
+
+		{
+            "ita":"controllo",
+            "eng":"control"
+        },
+
+		{
+            "ita":"grazia",
+            "eng":"grace"
+        },
+
+		{
+            "ita":"passato",
+            "eng":"past"
+        },
+
+		{
+            "ita":"spazio",
+            "eng":"space"
+        },
+
+		{
+            "ita":"stella",
+            "eng":"star"
+        },
+
+		{
+            "ita":"corsa",
+            "eng":"race"
+        },
+
+		{
+            "ita":"erba",
+            "eng":"grass"
+        },
+
+		{
+            "ita":"massa",
+            "eng":"mass"
+        },
+
+		{
+            "ita":"origine",
+            "eng":"origin"
+        },
+
+		{
+            "ita":"polizia",
+            "eng":"police"
+        },
+
+		{
+            "ita":"soluzione",
+            "eng":"solution"
+        },
+
+		{
+            "ita":"chilometro",
+            "eng":"kilometer"
+        },
+
+		{
+            "ita":"madre",
+            "eng":"mother"
+        },
+
+		{
+            "ita":"paura",
+            "eng":"fear"
+        },
+
+		{
+            "ita":"cuore",
+            "eng":"heart"
+        },
+
+		{
+            "ita":"idea",
+            "eng":"idea"
+        },
+
+		{
+            "ita":"fondo",
+            "eng":"background"
+        },
+
+		{
+            "ita":"esempio",
+            "eng":"example"
+        },
+
+		{
+            "ita":"ordine",
+            "eng":"order"
+        },
+
+		{
+            "ita":"posto",
+            "eng":"place"
+        },
+
+		{
+            "ita":"campo",
+            "eng":"field"
+        },
+
+		{
+            "ita":"faccia",
+            "eng":"face"
+        },
+
+		{
+            "ita":"moglie",
+            "eng":"wife"
+        },
+
+		{
+            "ita":"ragazzo",
+            "eng":"boy"
+        },
+
+		{
+            "ita":"bisogno",
+            "eng":"need"
+        },
+
+		{
+            "ita":"cielo",
+            "eng":"sky"
+        },
+
+		{
+            "ita":"letto",
+            "eng":"bed"
+        },
+
+		{
+            "ita":"fronte",
+            "eng":"front"
+        },
+
+		{
+            "ita":"conto",
+            "eng":"bill"
+        },
+
+		{
+            "ita":"corpo",
+            "eng":"body"
+        },
+
+		{
+            "ita":"numero",
+            "eng":"number"
+        },
+
+		{
+            "ita":"ministro",
+            "eng":"minister"
+        },
+
+		{
+            "ita":"problema",
+            "eng":"problem"
+        },
+
+		{
+            "ita":"chiesa",
+            "eng":"church"
+        },
+
+		{
+            "ita":"braccio",
+            "eng":"arm"
+        },
+
+		{
+            "ita":"bambino",
+            "eng":"child"
+        },
+
+		{
+            "ita":"pensiero",
+            "eng":"thought"
+        },
+
+		{
+            "ita":"pace",
+            "eng":"peace"
+        },
+
+		{
+            "ita":"morte",
+            "eng":"death"
+        },
+
+		{
+            "ita":"fine",
+            "eng":"end"
+        },
+
+		{
+            "ita":"forma",
+            "eng":"form"
+        },
+
+		{
+            "ita":"resto",
+            "eng":"rest"
+        },
+
+		{
+            "ita":"popolo",
+            "eng":"people"
+        },
+
+		{
+            "ita":"società",
+            "eng":"society"
+        },
+
+		{
+            "ita":"studio",
+            "eng":"study"
+        },
+
+		{
+            "ita":"legge",
+            "eng":"law"
+        },
+
+		{
+            "ita":"libro",
+            "eng":"book"
+        },
+
+		{
+            "ita":"figlia",
+            "eng":"daughter"
+        },
+
+		{
+            "ita":"resto",
+            "eng":"rest"
+        },
+
+		{
+            "ita":"luogo",
+            "eng":"place"
+        },
+
+		{
+            "ita":"condizione",
+            "eng":"condition"
+        },
+
+		{
+            "ita":"professore",
+            "eng":"teacher"
+        },
+
+		{
+            "ita":"marito",
+            "eng":"husband"
+        },
+
+		{
+            "ita":"verità",
+            "eng":"truth"
+        },
+
+		{
+            "ita":"segno",
+            "eng":"sign"
+        },
+
+		{
+            "ita":"diritto",
+            "eng":"right"
+        },
+
+		{
+            "ita":"lettera",
+            "eng":"letter"
+        },
+
+		{
+            "ita":"ragazza",
+            "eng":"girl"
+        },
+
+		{
+            "ita":"scuola",
+            "eng":"school"
+        },
+
+		{
+            "ita":"camera",
+            "eng":"room"
+        },
+
+		{
+            "ita":"gruppo",
+            "eng":"group"
+        },
+
+		{
+            "ita":"discorso",
+            "eng":"speech"
+        },
+
+		{
+            "ita":"centro",
+            "eng":"center"
+        },
+
+		{
+            "ita":"secolo",
+            "eng":"century"
+        },
+
+		{
+            "ita":"mezzo",
+            "eng":"half"
+        },
+
+		{
+            "ita":"tipo",
+            "eng":"guy"
+        },
+
+		{
+            "ita":"colpa",
+            "eng":"fault"
+        },
+
+		{
+            "ita":"rispetto",
+            "eng":"respect"
+        },
+
+		{
+            "ita":"scena",
+            "eng":"scene"
+        },
+
+		{
+            "ita":"oggetto",
+            "eng":"object"
+        },
+
+		{
+            "ita":"possibilità",
+            "eng":"possibility"
+        },
+
+		{
+            "ita":"mamma",
+            "eng":"mom"
+        },
+
+		{
+            "ita":"presenza",
+            "eng":"presence"
+        },
+
+		{
+            "ita":"teatro",
+            "eng":"theater"
+        },
+
+		{
+            "ita":"caffè",
+            "eng":"coffee"
+        },
+
+		{
+            "ita":"principio",
+            "eng":"principle"
+        },
+
+		{
+            "ita":"termine",
+            "eng":"term"
+        },
+
+		{
+            "ita":"lingua",
+            "eng":"tongue"
+        },
+
+		{
+            "ita":"pezzo",
+            "eng":"piece"
+        },
+
+		{
+            "ita":"capello",
+            "eng":"hair"
+        },
+
+		{
+            "ita":"regione",
+            "eng":"region"
+        },
+
+		{
+            "ita":"monte",
+            "eng":"Mountain"
+        },
+
+		{
+            "ita":"università",
+            "eng":"university"
+        },
+
+		{
+            "ita":"treno",
+            "eng":"train"
+        },
+
+		{
+            "ita":"inverno",
+            "eng":"winter"
+        },
+
+		{
+            "ita":"nazione",
+            "eng":"nation"
+        },
+
+		{
+            "ita":"pagina",
+            "eng":"page"
+        },
+
+		{
+            "ita":"scopo",
+            "eng":"purpose"
+        },
+
+		{
+            "ita":"compagno",
+            "eng":"partner"
+        },
+
+		{
+            "ita":"necessità",
+            "eng":"need"
+        },
+
+		{
+            "ita":"potere",
+            "eng":"power"
+        },
+
+		{
+            "ita":"musica",
+            "eng":"music"
+        },
+
+		{
+            "ita":"dottore",
+            "eng":"doctor"
+        },
+
+		{
+            "ita":"sentimento",
+            "eng":"feeling"
+        },
+
+		{
+            "ita":"nave",
+            "eng":"ship"
+        },
+
+		{
+            "ita":"pietra",
+            "eng":"Stone"
+        },
+
+		{
+            "ita":"produzione",
+            "eng":"production"
+        },
+
+		{
+            "ita":"speranza",
+            "eng":"hope"
+        },
+
+		{
+            "ita":"dolore",
+            "eng":"ache"
+        },
+
+		{
+            "ita":"carne",
+            "eng":"meat"
+        },
+
+		{
+            "ita":"generale",
+            "eng":"general"
+        },
+
+		{
+            "ita":"proposito",
+            "eng":"purpose"
+        },
+
+		{
+            "ita":"elemento",
+            "eng":"element"
+        },
+
+		{ 
+        "ita":"stazione",
+        "eng":"railway station"
+        },
+
+		{
+            "ita":"materia",
+            "eng":"matter"
+        },
+
+		{
+            "ita":"scala",
+            "eng":"ladder"
+        },
+
+		{
+            "ita":"maniera",
+            "eng":"way"
+        },
+
+		{
+            "ita":"arma",
+            "eng":"weapon"
+        },
+
+		{
+            "ita":"autorità",
+            "eng":"authority"
+        },
+
+		{
+            "ita":"gamba",
+            "eng":"leg"
+        },
+
+		{
+            "ita":"patria",
+            "eng":"homeland"
+        },
+
+		{
+            "ita":"albergo",
+            "eng":"hotel"
+        },
+
+		{
+            "ita":"gioia",
+            "eng":"joy"
+        },
+
+		{
+            "ita":"argomento",
+            "eng":"topic"
+        },
+
+		{
+            "ita":"sguardo",
+            "eng":"look"
+        },
+
+		{
+            "ita":"relazione",
+            "eng":"report"
+        },
+
+		{
+            "ita":"classe",
+            "eng":"class"
+        },
+
+		{
+            "ita":"battaglia",
+            "eng":"battle"
+        },
+
+		{
+            "ita":"viso",
+            "eng":"face"
+        },
+
+		{
+            "ita":"gesto",
+            "eng":"gesture"
+        },
+
+		{
+            "ita":"mattino",
+            "eng":"morning"
+        },
+
+		{
+            "ita":"opinione",
+            "eng":"opinion"
+        },
+
+		{
+            "ita":"ponte",
+            "eng":"bridge"
+        },
+
+		{
+            "ita":"sorriso",
+            "eng":"smile"
+        },
+
+		{
+            "ita":"frase",
+            "eng":"phrase"
+        },
+
+		{
+            "ita":"limite",
+            "eng":"limit"
+        },
+
+		{
+            "ita":"ritorno",
+            "eng":"return"
+        },
+
+		{
+            "ita":"bosco",
+            "eng":"wood"
+        },
+
+		{
+            "ita":"esame",
+            "eng":"exam"
+        },
+
+		{
+            "ita":"lato",
+            "eng":"side"
+        },
+
+		{
+            "ita":"operazione",
+            "eng":"operation"
+        },
+
+		{
+            "ita":"pranzo",
+            "eng":"lunch"
+        },
+
+		{ 
+            "ita":"costa",
+            "eng":"it costs"
+        },
+
+		{
+            "ita":"prato",
+            "eng":"meadow"
+        },
+
+		{
+            "ita":"repubblica",
+            "eng":"republic"
+        },
+
+		{
+            "ita":"valle",
+            "eng":"Valley"
+        },
+
+		{
+            "ita":"nord",
+            "eng":"north"
+        },
+
+		{
+            "ita":"fatica",
+            "eng":"fatigue"
+        },
+
+		{
+            "ita":"odore",
+            "eng":"smell"
+        },
+
+		{
+            "ita":"articolo",
+            "eng":"article"
+        },
+
+		{
+            "ita":"costruzione",
+            "eng":"construction"
+        },
+
+		{
+            "ita":"rivoluzione",
+            "eng":"Revolution"
+        },
+
+		{
+            "ita":"zia",
+            "eng":"aunt"
+        },
+
+		{
+            "ita":"confronto",
+            "eng":"comparison"
+        },
+
+		{
+            "ita":"potenza",
+            "eng":"power"
+        },
+
+		{
+            "ita":"sforzo",
+            "eng":"effort"
+        },
+
+		{
+            "ita":"sicurezza",
+            "eng":"safety"
+        },
+
+		{
+            "ita":"ufficiale",
+            "eng":"official"
+        },
+
+		{
+            "ita":"crisi",
+            "eng":"crisis"
+        },
+
+		{
+            "ita":"cucina",
+            "eng":"kitchen"
+        },
+
+		{
+            "ita":"gatto",
+            "eng":"cat"
+        },
+
+		{
+            "ita":"pietà",
+            "eng":"pity"
+        },
+
+		{
+            "ita":"territorio",
+            "eng":"territory"
+        },
+
+		{
+            "ita":"attimo",
+            "eng":"moment"
+        },
+
+		{
+            "ita":"civiltà",
+            "eng":"civilization"
+        },
+
+		{
+            "ita":"contatto",
+            "eng":"contact"
+        },
+
+		{
+            "ita":"errore",
+            "eng":"error"
+        },
+
+		{
+            "ita":"fretta",
+            "eng":"hurry"
+        },
+
+		{
+            "ita":"intenzione",
+            "eng":"intention"
+        },
+
+		{
+            "ita":"cultura",
+            "eng":"culture"
+        },
+
+		{
+            "ita":"giudizio",
+            "eng":"judgement"
+        },
+
+		{
+            "ita":"spesa",
+            "eng":"expense"
+        },
+
+		{
+            "ita":"aiuto",
+            "eng":"Help"
+        },
+
+		{
+            "ita":"ambiente",
+            "eng":"environment"
+        },
+
+		{
+            "ita":"animo",
+            "eng":"mind"
+        },
+
+		{
+            "ita":"bestia",
+            "eng":"beast"
+        },
+
+		{
+            "ita":"cortile",
+            "eng":"courtyard"
+        },
+
+		{
+            "ita":"pelle",
+            "eng":"skin"
+        },
+
+		{
+            "ita":"proposta",
+            "eng":"proposal"
+        },
+
+		{
+            "ita":"riva",
+            "eng":"shore"
+        },
+
+		{
+            "ita":"segretario",
+            "eng":"secretary"
+        },
+
+		{
+            "ita":"abito",
+            "eng":"dress"
+        },
+
+		{
+            "ita":"chiave",
+            "eng":"key"
+        },
+
+		{
+            "ita":"corrente",
+            "eng":"current"
+        },
+
+		{
+            "ita":"operaio",
+            "eng":"worker"
+        },
+
+		{
+            "ita":"corso",
+            "eng":"course"
+        },
+
+		{
+            "ita":"finestra",
+            "eng":"window"
+        },
+
+		{
+            "ita":"arte",
+            "eng":"art"
+        },
+
+		{
+            "ita":"sistema",
+            "eng":"system"
+        },
+
+		{
+            "ita":"piano",
+            "eng":"plan"
+        },
+
+		{
+            "ita":"bocca",
+            "eng":"mouth"
+        },
+
+		{
+            "ita":"anima",
+            "eng":"soul"
+        },
+
+		{
+            "ita":"palazzo",
+            "eng":"palace"
+        },
+
+		{
+            "ita":"passo",
+            "eng":"step"
+        },
+
+		{
+            "ita":"giornata",
+            "eng":"day"
+        },
+
+		{
+            "ita":"servizio",
+            "eng":"service"
+        },
+
+		{
+            "ita":"rapporto",
+            "eng":"relationship"
+        },
+
+		{
+            "ita":"milione",
+            "eng":"million"
+        },
+
+		{
+            "ita":"stanza",
+            "eng":"room"
+        },
+
+		{
+            "ita":"valore",
+            "eng":"value"
+        },
+
+		{
+            "ita":"colpo",
+            "eng":"blow"
+        },
+
+		{
+            "ita":"sangue",
+            "eng":"blood"
+        },
+
+		{
+            "ita":"interesse",
+            "eng":"interest"
+        },
+
+		{
+            "ita":"spalla",
+            "eng":"shoulder"
+        },
+
+		{
+            "ita":"silenzio",
+            "eng":"silence"
+        },
+
+		{ 
+            "ita":"signorina",
+            "eng":"young lady"
+        },
+
+		{
+            "ita":"ombra",
+            "eng":"shadow"
+        },
+
+		{
+            "ita":"azione",
+            "eng":"action"
+        },
+
+		{
+            "ita":"vento",
+            "eng":"wind"
+        },
+
+		{
+            "ita":"mattina",
+            "eng":"morning"
+        },
+
+		{
+            "ita":"colore",
+            "eng":"color"
+        },
+
+		{
+            "ita":"presidente",
+            "eng":"president"
+        },
+
+		{
+            "ita":"consiglio",
+            "eng":"Advice"
+        },
+
+		{
+            "ita":"principe",
+            "eng":"prince"
+        },
+
+		{
+            "ita":"viaggio",
+            "eng":"travel"
+        },
+
+		{
+            "ita":"genere",
+            "eng":"kind"
+        },
+
+		{
+            "ita":"giornale",
+            "eng":"newspaper"
+        },
+
+		{
+            "ita":"spirito",
+            "eng":"spirit"
+        },
+
+		{
+            "ita":"cavallo",
+            "eng":"horse"
+        },
+
+		{
+            "ita":"muro",
+            "eng":"Wall"
+        },
+
+		{
+            "ita":"situazione",
+            "eng":"situation"
+        },
+
+		{
+            "ita":"linea",
+            "eng":"line"
+        },
+
+		{
+            "ita":"giro",
+            "eng":"round"
+        },
+
+		{
+            "ita":"automobile",
+            "eng":"car"
+        },
+
+		{
+            "ita":"atto",
+            "eng":"act"
+        },
+
+		{
+            "ita":"aspetto",
+            "eng":"appearance"
+        },
+
+		{
+            "ita":"età",
+            "eng":"age"
+        },
+
+		{
+            "ita":"fortuna",
+            "eng":"luck"
+        },
+
+		{
+            "ita":"oro",
+            "eng":"gold"
+        },
+
+		{
+            "ita":"partito",
+            "eng":"party"
+        },
+
+		{
+            "ita":"macchina",
+            "eng":"machine"
+        },
+
+		{
+            "ita":"carta",
+            "eng":"paper"
+        },
+
+		{
+            "ita":"minuto",
+            "eng":"minute"
+        },
+
+		{
+            "ita":"tratto",
+            "eng":"stretch"
+        },
+
+		{
+            "ita":"settimana",
+            "eng":"week"
+        },
+
+		{
+            "ita":"notizia",
+            "eng":"news"
+        },
+
+		{
+            "ita":"fratello",
+            "eng":"brother"
+        },
+
+		{
+            "ita":"realtà",
+            "eng":"reality"
+        },
+
+		{
+            "ita":"industria",
+            "eng":"industry"
+        },
+
+		{
+            "ita":"piacere",
+            "eng":"pleasure"
+        },
+
+		{
+            "ita":"maestro",
+            "eng":"master"
+        },
+
+		{
+            "ita":"personaggio",
+            "eng":"character"
+        },
+
+		{
+            "ita":"pomeriggio",
+            "eng":"afternoon"
+        },
+
+		{
+            "ita":"fianco",
+            "eng":"side"
+        },
+
+		{
+            "ita":"bambina",
+            "eng":"child"
+        },
+
+		{
+            "ita":"bellezza",
+            "eng":"beauty"
+        },
+
+		{
+            "ita":"domanda",
+            "eng":"question"
+        },
+
+		{
+            "ita":"pianta",
+            "eng":"plant"
+        },
+
+		{
+            "ita":"pubblico",
+            "eng":"public"
+        },
+
+		{
+            "ita":"sede",
+            "eng":"seat"
+        },
+
+		{
+            "ita":"affare",
+            "eng":"deal"
+        },
+
+		{
+            "ita":"bene",
+            "eng":"well"
+        },
+
+		{
+            "ita":"metà",
+            "eng":"half"
+        },
+
+		{
+            "ita":"papà",
+            "eng":"Pope"
+        },
+
+		{
+            "ita":"fiume",
+            "eng":"river"
+        },
+
+		{
+            "ita":"lotta",
+            "eng":"fight"
+        },
+
+		{
+            "ita":"mercato",
+            "eng":"market"
+        },
+
+		{
+            "ita":"angolo",
+            "eng":"angle"
+        },
+
+		{
+            "ita":"compagnia",
+            "eng":"company"
+        },
+
+		{
+            "ita":"espressione",
+            "eng":"expression"
+        },
+
+		{
+            "ita":"labbro",
+            "eng":"lip"
+        },
+
+		{
+            "ita":"villa",
+            "eng":"villa"
+        },
+
+		{
+            "ita":"desiderio",
+            "eng":"desire"
+        },
+
+		{
+            "ita":"serie",
+            "eng":"series"
+        },
+
+		{
+            "ita":"visita",
+            "eng":"visit"
+        },
+
+		{
+            "ita":"coraggio",
+            "eng":"courage"
+        },
+
+		{
+            "ita":"direttore",
+            "eng":"director"
+        },
+
+		{
+            "ita":"esercito",
+            "eng":"army"
+        },
+
+		{
+            "ita":"grado",
+            "eng":"degree"
+        },
+
+		{
+            "ita":"padrone",
+            "eng":"master"
+        },
+
+		{
+            "ita":"risposta",
+            "eng":"reply"
+        },
+
+		{
+            "ita":"tavola",
+            "eng":"table"
+        },
+
+		{
+            "ita":"immagine",
+            "eng":"image"
+        },
+
+		{
+            "ita":"montagna",
+            "eng":"mountain"
+        },
+
+		{
+            "ita":"energia",
+            "eng":"power"
+        },
+
+		{ 
+        "ita":"fede",
+        "eng":"wedding ring"
+        },
+
+		{
+            "ita":"pane",
+            "eng":"bread"
+        },
+
+		{
+            "ita":"seguito",
+            "eng":"following"
+        },
+
+		{
+            "ita":"estate",
+            "eng":"summer"
+        },
+
+		{
+            "ita":"film",
+            "eng":"movie"
+        },
+
+		{
+            "ita":"frutto",
+            "eng":"fruit"
+        },
+
+		{
+            "ita":"onore",
+            "eng":"honor"
+        },
+
+		{
+            "ita":"pericolo",
+            "eng":"danger"
+        },
+
+		{
+            "ita":"scrittore",
+            "eng":"writer"
+        },
+
+		{
+            "ita":"collina",
+            "eng":"hill"
+        },
+
+		{
+            "ita":"zio",
+            "eng":"uncle"
+        },
+
+		{
+            "ita":"difesa",
+            "eng":"defence"
+        },
+
+		{
+            "ita":"metro",
+            "eng":"meter"
+        },
+
+		{
+            "ita":"collo",
+            "eng":"neck"
+        },
+
+		{
+            "ita":"cura",
+            "eng":"care"
+        },
+
+		{
+            "ita":"disposizione",
+            "eng":"layout"
+        },
+
+		{
+            "ita":"Domenica",
+            "eng":"Sunday"
+        },
+
+		{ 
+            "ita":"giovanotto",
+            "eng":"young man"
+        },
+
+		{
+            "ita":"poeta",
+            "eng":"poet"
+        },
+
+		{
+            "ita":"stagione",
+            "eng":"season"
+        },
+
+		{
+            "ita":"peso",
+            "eng":"weight"
+        },
+
+		{
+            "ita":"tono",
+            "eng":"tone"
+        },
+
+		{
+            "ita":"croce",
+            "eng":"cross"
+        },
+
+		{
+            "ita":"decisione",
+            "eng":"decision"
+        },
+
+		{
+            "ita":"poesia",
+            "eng":"poetry"
+        },
+
+		{
+            "ita":"fiducia",
+            "eng":"confidence"
+        },
+
+		{
+            "ita":"filo",
+            "eng":"wire"
+        },
+
+		{
+            "ita":"folla",
+            "eng":"crowd"
+        },
+
+		{
+            "ita":"qualità",
+            "eng":"quality"
+        },
+
+		{
+            "ita":"roba",
+            "eng":"stuff"
+        },
+
+		{
+            "ita":"conoscenza",
+            "eng":"knowledge"
+        },
+
+		{
+            "ita":"favore",
+            "eng":"favor"
+        },
+
+		{
+            "ita":"popolazione",
+            "eng":"population"
+        },
+
+		{
+            "ita":"strumento",
+            "eng":"tool"
+        },
+
+		{
+            "ita":"uso",
+            "eng":"use"
+        },
+
+		{
+            "ita":"vestito",
+            "eng":"dress"
+        },
+
+		{
+            "ita":"commercio",
+            "eng":"business"
+        },
+
+		{
+            "ita":"fabbrica",
+            "eng":"factory"
+        },
+
+		{
+            "ita":"giugno",
+            "eng":"June"
+        },
+
+		{
+            "ita":"giustizia",
+            "eng":"justice"
+        },
+
+		{
+            "ita":"avvocato",
+            "eng":"lawyer"
+        },
+
+		{
+            "ita":"messa",
+            "eng":"mass"
+        },
+
+		{
+            "ita":"orecchio",
+            "eng":"ear"
+        },
+
+		{
+            "ita":"sonno",
+            "eng":"sleep"
+        },
+
+		{
+            "ita":"congresso",
+            "eng":"congress"
+        },
+
+		{
+            "ita":"porto",
+            "eng":"port"
+        },
+
+		{
+            "ita":"calcio",
+            "eng":"football"
+        },
+
+		{
+            "ita":"fantasia",
+            "eng":"fantasy"
+        },
+
+		{
+            "ita":"matrimonio",
+            "eng":"marriage"
+        },
+
+		{
+            "ita":"medico",
+            "eng":"doctor"
+        },
+
+		{
+            "ita":"ospedale",
+            "eng":"Hospital"
+        },
+
+		{ 
+            "ita":"pianura",
+            "eng":"flat land"
+        },
+
+		{
+            "ita":"tavolo",
+            "eng":"table"
+        },
+
+		{
+            "ita":"fame",
+            "eng":"hunger"
+        },
+
+		{
+            "ita":"latte",
+            "eng":"milk"
+        },
+
+		{
+            "ita":"merito",
+            "eng":"merit"
+        },
+
+		{
+            "ita":"attore",
+            "eng":"actor"
+        },
+
+		{
+            "ita":"ricchezza",
+            "eng":"wealth"
+        },
+
+		{
+            "ita":"sacrificio",
+            "eng":"sacrifice"
+        },
+
+		{
+            "ita":"atteggiamento",
+            "eng":"attitude"
+        },
+
+		{
+            "ita":"concetto",
+            "eng":"concept"
+        },
+
+		{
+            "ita":"mestiere",
+            "eng":"craft"
+        },
+
+		{
+            "ita":"attesa",
+            "eng":"waiting"
+        },
+
+		{
+            "ita":"bagno",
+            "eng":"bathroom"
+        },
+
+		{
+            "ita":"foglia",
+            "eng":"leaf"
+        },
+
+		{
+            "ita":"istante",
+            "eng":"instant"
+        },
+
+		{
+            "ita":"lago",
+            "eng":"lake"
+        }
+    ]
+}

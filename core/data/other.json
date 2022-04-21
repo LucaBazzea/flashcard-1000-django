@@ -1,0 +1,775 @@
+{
+    "other": [
+
+        {
+            "ita":"il",
+            "eng":"the"
+        },
+
+        {
+            "ita":"di",
+            "eng":"of"
+        },
+
+        {
+            "ita":"e",
+            "eng":"is"
+        },
+
+        {
+            "ita":"a",
+            "eng":"to"
+        },
+
+        {
+            "ita":"un",
+            "eng":"a"
+        },
+
+        {
+            "ita":"in",
+            "eng":"in"
+        },
+
+        {
+            "ita":"che",
+            "eng":"that"
+        },
+
+        {
+            "ita":"non",
+            "eng":"not"
+        },
+
+        {
+            "ita":"si",
+            "eng":"Yes"
+        },
+
+        {
+            "ita":"da",
+            "eng":"from"
+        },
+
+        {
+            "ita":"lo",
+            "eng":"the"
+        },
+
+        {
+            "ita":"per",
+            "eng":"for"
+        },
+
+        {
+            "ita":"con",
+            "eng":"with"
+        },
+
+        {
+            "ita":"ma",
+            "eng":"but"
+        },
+
+        {
+            "ita":"come",
+            "eng":"how"
+        },
+
+        {
+            "ita":"su",
+            "eng":"up"
+        },
+
+        {
+            "ita":"mi",
+            "eng":"me"
+        },
+
+        {
+            "ita":"anche",
+            "eng":"also"
+        },
+
+        {
+            "ita":"o",
+            "eng":"or"
+        },
+
+        {
+            "ita":"io",
+            "eng":"I"
+        },
+
+        {
+            "ita":"se",
+            "eng":"self"
+        },
+
+        {
+            "ita":"perché",
+            "eng":"because"
+        },
+
+        {
+            "ita":"li",
+            "eng":"there"
+        },
+
+        {
+            "ita":"ci",
+            "eng":"us"
+        },
+
+        {
+            "ita":"ne",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"lei",
+            "eng":"she"
+        },
+
+        {
+            "ita":"ancora",
+            "eng":"yet"
+        },
+
+        {
+            "ita":"tu",
+            "eng":"you"
+        },
+
+        {
+            "ita":"lui",
+            "eng":"he"
+        },
+
+        {
+            "ita":"senza",
+            "eng":"without"
+        },
+
+        {
+            "ita":"bene",
+            "eng":"well"
+        },
+
+        {
+            "ita":"cui",
+            "eng":"which"
+        },
+
+        {
+            "ita":"chi",
+            "eng":"who"
+        },
+
+        {
+            "ita":"già",
+            "eng":"already"
+        },
+
+        {
+            "ita":"dopo",
+            "eng":"after"
+        },
+
+        {
+            "ita":"uno",
+            "eng":"one"
+        },
+
+        {
+            "ita":"noi",
+            "eng":"we"
+        },
+
+        {
+            "ita":"dove",
+            "eng":"where"
+        },
+
+        {
+            "ita":"qui",
+            "eng":"here"
+        },
+
+        {
+            "ita":"no",
+            "eng":"no"
+        },
+
+        {
+            "ita":"allora",
+            "eng":"then"
+        },
+
+        {
+            "ita":"tra",
+            "eng":"between"
+        },
+
+        {
+            "ita":"vi",
+            "eng":"you"
+        },
+
+        {
+            "ita":"ora",
+            "eng":"Now"
+        },
+
+        {
+            "ita":"fra",
+            "eng":"between"
+        },
+
+        {
+            "ita":"prima",
+            "eng":"before"
+        },
+
+        {
+            "ita":"forse",
+            "eng":"perhaps"
+        },
+
+        {
+            "ita":"sì",
+            "eng":"Yup"
+        },
+
+        {
+            "ita":"sotto",
+            "eng":"under"
+        },
+
+        {
+            "ita":"voi",
+            "eng":"you"
+        },
+
+        {
+            "ita":"fino",
+            "eng":"till"
+        },
+
+        {
+            "ita":"oggi",
+            "eng":"today"
+        },
+
+        {
+            "ita":"quasi",
+            "eng":"almost"
+        },
+
+        {
+            "ita":"pure",
+            "eng":"also"
+        },
+
+        {
+            "ita":"egli",
+            "eng":"he"
+        },
+
+        {
+            "ita":"mentre",
+            "eng":"while"
+        },
+
+        {
+            "ita":"contro",
+            "eng":"versus"
+        },
+
+        {
+            "ita":"invece",
+            "eng":"instead"
+        },
+
+        {
+            "ita":"esso",
+            "eng":"it"
+        },
+
+        {
+            "ita":"là",
+            "eng":"there"
+        },
+
+        {
+            "ita":"però",
+            "eng":"However"
+        },
+
+        {
+            "ita":"né",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"subito",
+            "eng":"immediately"
+        },
+
+        {
+            "ita":"verso",
+            "eng":"towards"
+        },
+
+        {
+            "ita":"ciò",
+            "eng":"it"
+        },
+
+        {
+            "ita":"ecco",
+            "eng":"here"
+        },
+
+        {
+            "ita":"loro",
+            "eng":"their"
+        },
+
+        {
+            "ita":"essa",
+            "eng":"it"
+        },
+
+        {
+            "ita":"fuori",
+            "eng":"outside"
+        },
+
+        {
+            "ita":"meno",
+            "eng":"less"
+        },
+
+        {
+            "ita":"adesso",
+            "eng":"now"
+        },
+
+        {
+            "ita":"niente",
+            "eng":"nothing"
+        },
+
+        {
+            "ita":"cioè",
+            "eng":"that is"
+        },
+
+        {
+            "ita":"male",
+            "eng":"bad"
+        },
+
+        {
+            "ita":"nulla",
+            "eng":"nothing"
+        },
+
+        {
+            "ita":"ah",
+            "eng":"ha"
+        },
+
+        {
+            "ita":"oh",
+            "eng":"Oh"
+        },
+
+        {
+            "ita":"quindi",
+            "eng":"then"
+        },
+
+        {
+            "ita":"appena",
+            "eng":"as soon as"
+        },
+
+        {
+            "ita":"insieme",
+            "eng":"together"
+        },
+
+        {
+            "ita":"dunque",
+            "eng":"therefore"
+        },
+
+        {
+            "ita":"dentro",
+            "eng":"inside"
+        },
+
+        {
+            "ita":"durante",
+            "eng":"during"
+        },
+
+        {
+            "ita":"almeno",
+            "eng":"at least"
+        },
+
+        {
+            "ita":"secondo",
+            "eng":"second"
+        },
+
+        {
+            "ita":"anzi",
+            "eng":"rather"
+        },
+
+        {
+            "ita":"oramai",
+            "eng":"now"
+        },
+
+        {
+            "ita":"oltre",
+            "eng":"over"
+        },
+
+        {
+            "ita":"intorno",
+            "eng":"around"
+        },
+
+        {
+            "ita":"sopra",
+            "eng":"above"
+        },
+
+        {
+            "ita":"dietro",
+            "eng":"behind"
+        },
+
+        {
+            "ita":"davanti",
+            "eng":"in front of"
+        },
+
+        {
+            "ita":"soltanto",
+            "eng":"only"
+        },
+
+        {
+            "ita":"infatti",
+            "eng":"indeed"
+        },
+
+        {
+            "ita":"qualcosa",
+            "eng":"something"
+        },
+
+        {
+            "ita":"spesso",
+            "eng":"often"
+        },
+
+        {
+            "ita":"accordo",
+            "eng":"agreement"
+        },
+
+        {
+            "ita":"ieri",
+            "eng":"yesterday"
+        },
+
+        {
+            "ita":"davvero",
+            "eng":"really"
+        },
+
+        {
+            "ita":"lì",
+            "eng":"there"
+        },
+
+        {
+            "ita":"qualcuno",
+            "eng":"someone"
+        },
+
+        {
+            "ita":"avanti",
+            "eng":"come on"
+        },
+
+        {
+            "ita":"assai",
+            "eng":"very"
+        },
+
+        {
+            "ita":"presto",
+            "eng":"soon"
+        },
+
+        {
+            "ita":"qua",
+            "eng":"here"
+        },
+
+        {
+            "ita":"domani",
+            "eng":"tomorrow"
+        },
+
+        {
+            "ita":"circa",
+            "eng":"about"
+        },
+
+        {
+            "ita":"giù",
+            "eng":"down"
+        },
+
+        {
+            "ita":"soprattutto",
+            "eng":"mostly"
+        },
+
+        {
+            "ita":"nemmeno",
+            "eng":"not even"
+        },
+
+        {
+            "ita":"grazie",
+            "eng":"thank you"
+        },
+
+        {
+            "ita":"tuttavia",
+            "eng":"however"
+        },
+
+        {
+            "ita":"appunto",
+            "eng":"just"
+        },
+
+        {
+            "ita":"neppure",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"eh",
+            "eng":"huh"
+        },
+
+        {
+            "ita":"veramente",
+            "eng":"really"
+        },
+
+        {
+            "ita":"tardi",
+            "eng":"late"
+        },
+
+        {
+            "ita":"insomma",
+            "eng":"in conclusion"
+        },
+
+        {
+            "ita":"presso",
+            "eng":"At"
+        },
+
+        {
+            "ita":"intanto",
+            "eng":"in the meantime"
+        },
+
+        {
+            "ita":"lungo",
+            "eng":"long"
+        },
+
+        {
+            "ita":"neanche",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"piuttosto",
+            "eng":"Rather"
+        },
+
+        {
+            "ita":"stasera",
+            "eng":"tonight"
+        },
+
+        {
+            "ita":"perciò",
+            "eng":"therefore"
+        },
+
+        {
+            "ita":"naturalmente",
+            "eng":"of course, naturally"
+        },
+
+        {
+            "ita":"accanto",
+            "eng":"next"
+        },
+
+        {
+            "ita":"eppure",
+            "eng":"but yet"
+        },
+
+        {
+            "ita":"eccetera",
+            "eng":"etc"
+        },
+
+        {
+            "ita":"finalmente",
+            "eng":"finally"
+        },
+
+        {
+            "ita":"infine",
+            "eng":"finally"
+        },
+
+        {
+            "ita":"poiché",
+            "eng":"as"
+        },
+
+        {
+            "ita":"comunque",
+            "eng":"However"
+        },
+
+        {
+            "ita":"dinanzi",
+            "eng":"before"
+        },
+
+        {
+            "ita":"abbastanza",
+            "eng":"enough"
+        },
+
+        {
+            "ita":"peccato",
+            "eng":"sin"
+        },
+
+        {
+            "ita":"certamente",
+            "eng":"certainly"
+        },
+
+        {
+            "ita":"coloro",
+            "eng":"they"
+        },
+
+        {
+            "ita":"attorno",
+            "eng":"about"
+        },
+
+        {
+            "ita":"magari",
+            "eng":"maybe"
+        },
+
+        {
+            "ita":"oppure",
+            "eng":"or"
+        },
+
+        {
+            "ita":"inoltre",
+            "eng":"Moreover"
+        },
+
+        {
+            "ita":"indietro",
+            "eng":"back"
+        },
+
+        {
+            "ita":"addosso",
+            "eng":"on"
+        },
+
+        {
+            "ita":"addirittura",
+            "eng":"even"
+        },
+
+        {
+            "ita":"finché",
+            "eng":"as long as"
+        },
+
+        {
+            "ita":"perfino",
+            "eng":"even"
+        },
+
+        {
+            "ita":"affatto",
+            "eng":"at all"
+        },
+
+        {
+            "ita":"stamattina",
+            "eng":"This morning"
+        },
+
+        {
+            "ita":"completamente",
+             "eng":"completely"
+        },
+
+        {
+            "ita":"probabilmente",
+            "eng":"probably"
+        },
+
+        {
+            "ita":"chissà",
+            "eng":"who knows"
+        },
+
+        {
+            "ita":"ognuno",
+            "eng":"each one"
+        },
+
+        {
+            "ita":"entro",
+            "eng":"within"
+        }
+
+    ]
+}
