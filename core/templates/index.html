@@ -1,11 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-
-<h2>Italian</h2>
-<p>{{ word.ita_word }}</p>
-
-<h2>English</h2>
-<p>{{ word.eng_word }}</p>
-
+<div>
+    <div>
+        <p class="h1">Italian</p>
+        <p class="display-1">{{ word.ita_word }}</p>
+    </div>
+    <div>
+        <p class="h2">English</p>
+        <p class="display-5">{{ word.eng_word }}</p>
+    </div>
+</div>
 {% endblock content %}
