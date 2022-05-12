@@ -1,14 +1,18 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="card" style="width: 18rem;">
-    <div>
-        <p class="h1">Italian</p>
-        <p class="display-1">{{ word.ita_word }}</p>
-    </div>
-    <div>
-        <p class="h2">English</p>
-        <p class="display-5">{{ word.eng_word }}</p>
-    </div>
-</div>
+<div class="card" style="width: 20rem;">
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+          <p class="display-1">{{ word.ita_word }}</p>
+        </li>
+        <li class="list-group-item">
+            <p class="display-5">{{ word.eng_word }}</p>
+        </li>
+        <li class="list-group-item">
+          <a href=""><img src="" alt="Show/Hide"></a>
+          <a href=""><img src="" alt="Next"></a>
+        </li>
+    </ul>
+  </div>
 {% endblock content %}
