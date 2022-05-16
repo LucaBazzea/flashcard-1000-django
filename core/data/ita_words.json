@@ -1,0 +1,5335 @@
+{
+    "words": [
+
+        {
+            "ita":"giardino",
+            "eng":"garden"
+        },
+
+		{
+            "ita":"attività",
+            "eng":"activities"
+        },
+
+		{
+            "ita":"volontà",
+            "eng":"will"
+        },
+
+		{
+            "ita":"volto",
+            "eng":"face"
+        },
+
+		{
+            "ita":"base",
+            "eng":"basis"
+        },
+
+		{
+            "ita":"carattere",
+            "eng":"character"
+        },
+
+		{
+            "ita":"coscienza",
+            "eng":"consciousness"
+        },
+
+		{
+            "ita":"guardia",
+            "eng":"guard"
+        },
+
+		{
+            "ita":"memoria",
+            "eng":"memory"
+        },
+
+		{
+            "ita":"terreno",
+            "eng":"ground"
+        },
+
+		{
+            "ita":"animale",
+            "eng":"animal"
+        },
+
+		{
+            "ita":"direzione",
+            "eng":"direction"
+        },
+
+		{
+            "ita":"eccellenza",
+            "eng":"excellence"
+        },
+
+		{
+            "ita":"malattia",
+            "eng":"disease"
+        },
+
+		{
+            "ita":"scienza",
+            "eng":"science"
+        },
+
+		{
+            "ita":"funzione",
+            "eng":"function"
+        },
+
+		{
+            "ita":"conseguenza",
+            "eng":"result"
+        },
+
+		{
+            "ita":"parete",
+            "eng":"wall"
+        },
+
+		{
+            "ita":"dente",
+            "eng":"tooth"
+        },
+
+		{
+            "ita":"distanza",
+            "eng":"distance"
+        },
+
+		{
+            "ita":"gusto",
+            "eng":"taste"
+        },
+
+		{
+            "ita":"impressione",
+            "eng":"impression"
+        },
+
+		{
+            "ita":"istituto",
+            "eng":"institute"
+        },
+
+		{
+            "ita":"quadro",
+            "eng":"painting"
+        },
+
+		{
+            "ita":"attenzione",
+            "eng":"attention"
+        },
+
+		{
+            "ita":"autore",
+            "eng":"author"
+        },
+
+		{
+            "ita":"difficoltà",
+            "eng":"difficulty"
+        },
+
+		{
+            "ita":"passione",
+            "eng":"passion"
+        },
+
+		{
+            "ita":"commissione",
+            "eng":"commission"
+        },
+
+		{
+            "ita":"dito",
+            "eng":"finger"
+        },
+
+		{
+            "ita":"inizio",
+            "eng":"Start"
+        },
+
+		{
+            "ita":"programma",
+            "eng":"program"
+        },
+
+		{
+            "ita":"spettacolo",
+            "eng":"show"
+        },
+
+		{
+            "ita":"titolo",
+            "eng":"title"
+        },
+
+		{
+            "ita":"comunicazione",
+            "eng":"communication"
+        },
+
+		{
+            "ita":"fenomeno",
+            "eng":"phenomenon"
+        },
+
+		{
+            "ita":"maggio",
+            "eng":"May"
+        },
+
+		{
+            "ita":"stampa",
+            "eng":"press"
+        },
+
+		{
+            "ita":"denaro",
+            "eng":"money"
+        },
+
+		{
+            "ita":"destino",
+            "eng":"destiny"
+        },
+
+		{
+            "ita":"dovere",
+            "eng":"duty"
+        },
+
+		{
+            "ita":"ferro",
+            "eng":"iron"
+        },
+
+		{
+            "ita":"punta",
+            "eng":"tip"
+        },
+
+		{
+            "ita":"regno",
+            "eng":"kingdom"
+        },
+
+		{
+            "ita":"epoca",
+            "eng":"era"
+        },
+
+		{
+            "ita":"luna",
+            "eng":"moon"
+        },
+
+		{
+            "ita":"provincia",
+            "eng":"province"
+        },
+
+		{
+            "ita":"voglia",
+            "eng":"wish"
+        },
+
+		{
+            "ita":"differenza",
+            "eng":"difference"
+        },
+
+		{
+            "ita":"controllo",
+            "eng":"control"
+        },
+
+		{
+            "ita":"grazia",
+            "eng":"grace"
+        },
+
+		{
+            "ita":"passato",
+            "eng":"past"
+        },
+
+		{
+            "ita":"spazio",
+            "eng":"space"
+        },
+
+		{
+            "ita":"stella",
+            "eng":"star"
+        },
+
+		{
+            "ita":"corsa",
+            "eng":"race"
+        },
+
+		{
+            "ita":"erba",
+            "eng":"grass"
+        },
+
+		{
+            "ita":"massa",
+            "eng":"mass"
+        },
+
+		{
+            "ita":"origine",
+            "eng":"origin"
+        },
+
+		{
+            "ita":"polizia",
+            "eng":"police"
+        },
+
+		{
+            "ita":"soluzione",
+            "eng":"solution"
+        },
+
+		{
+            "ita":"chilometro",
+            "eng":"kilometer"
+        },
+
+		{
+            "ita":"madre",
+            "eng":"mother"
+        },
+
+		{
+            "ita":"paura",
+            "eng":"fear"
+        },
+
+		{
+            "ita":"cuore",
+            "eng":"heart"
+        },
+
+		{
+            "ita":"idea",
+            "eng":"idea"
+        },
+
+		{
+            "ita":"fondo",
+            "eng":"background"
+        },
+
+		{
+            "ita":"esempio",
+            "eng":"example"
+        },
+
+		{
+            "ita":"ordine",
+            "eng":"order"
+        },
+
+		{
+            "ita":"posto",
+            "eng":"place"
+        },
+
+		{
+            "ita":"campo",
+            "eng":"field"
+        },
+
+		{
+            "ita":"faccia",
+            "eng":"face"
+        },
+
+		{
+            "ita":"moglie",
+            "eng":"wife"
+        },
+
+		{
+            "ita":"ragazzo",
+            "eng":"boy"
+        },
+
+		{
+            "ita":"bisogno",
+            "eng":"need"
+        },
+
+		{
+            "ita":"cielo",
+            "eng":"sky"
+        },
+
+		{
+            "ita":"letto",
+            "eng":"bed"
+        },
+
+		{
+            "ita":"fronte",
+            "eng":"front"
+        },
+
+		{
+            "ita":"conto",
+            "eng":"bill"
+        },
+
+		{
+            "ita":"corpo",
+            "eng":"body"
+        },
+
+		{
+            "ita":"numero",
+            "eng":"number"
+        },
+
+		{
+            "ita":"ministro",
+            "eng":"minister"
+        },
+
+		{
+            "ita":"problema",
+            "eng":"problem"
+        },
+
+		{
+            "ita":"chiesa",
+            "eng":"church"
+        },
+
+		{
+            "ita":"braccio",
+            "eng":"arm"
+        },
+
+		{
+            "ita":"bambino",
+            "eng":"child"
+        },
+
+		{
+            "ita":"pensiero",
+            "eng":"thought"
+        },
+
+		{
+            "ita":"pace",
+            "eng":"peace"
+        },
+
+		{
+            "ita":"morte",
+            "eng":"death"
+        },
+
+		{
+            "ita":"fine",
+            "eng":"end"
+        },
+
+		{
+            "ita":"forma",
+            "eng":"form"
+        },
+
+		{
+            "ita":"resto",
+            "eng":"rest"
+        },
+
+		{
+            "ita":"popolo",
+            "eng":"people"
+        },
+
+		{
+            "ita":"società",
+            "eng":"society"
+        },
+
+		{
+            "ita":"studio",
+            "eng":"study"
+        },
+
+		{
+            "ita":"legge",
+            "eng":"law"
+        },
+
+		{
+            "ita":"libro",
+            "eng":"book"
+        },
+
+		{
+            "ita":"figlia",
+            "eng":"daughter"
+        },
+
+		{
+            "ita":"resto",
+            "eng":"rest"
+        },
+
+		{
+            "ita":"luogo",
+            "eng":"place"
+        },
+
+		{
+            "ita":"condizione",
+            "eng":"condition"
+        },
+
+		{
+            "ita":"professore",
+            "eng":"teacher"
+        },
+
+		{
+            "ita":"marito",
+            "eng":"husband"
+        },
+
+		{
+            "ita":"verità",
+            "eng":"truth"
+        },
+
+		{
+            "ita":"segno",
+            "eng":"sign"
+        },
+
+		{
+            "ita":"diritto",
+            "eng":"right"
+        },
+
+		{
+            "ita":"lettera",
+            "eng":"letter"
+        },
+
+		{
+            "ita":"ragazza",
+            "eng":"girl"
+        },
+
+		{
+            "ita":"scuola",
+            "eng":"school"
+        },
+
+		{
+            "ita":"camera",
+            "eng":"room"
+        },
+
+		{
+            "ita":"gruppo",
+            "eng":"group"
+        },
+
+		{
+            "ita":"discorso",
+            "eng":"speech"
+        },
+
+		{
+            "ita":"centro",
+            "eng":"center"
+        },
+
+		{
+            "ita":"secolo",
+            "eng":"century"
+        },
+
+		{
+            "ita":"mezzo",
+            "eng":"half"
+        },
+
+		{
+            "ita":"tipo",
+            "eng":"guy"
+        },
+
+		{
+            "ita":"colpa",
+            "eng":"fault"
+        },
+
+		{
+            "ita":"rispetto",
+            "eng":"respect"
+        },
+
+		{
+            "ita":"scena",
+            "eng":"scene"
+        },
+
+		{
+            "ita":"oggetto",
+            "eng":"object"
+        },
+
+		{
+            "ita":"possibilità",
+            "eng":"possibility"
+        },
+
+		{
+            "ita":"mamma",
+            "eng":"mom"
+        },
+
+		{
+            "ita":"presenza",
+            "eng":"presence"
+        },
+
+		{
+            "ita":"teatro",
+            "eng":"theater"
+        },
+
+		{
+            "ita":"caffè",
+            "eng":"coffee"
+        },
+
+		{
+            "ita":"principio",
+            "eng":"principle"
+        },
+
+		{
+            "ita":"termine",
+            "eng":"term"
+        },
+
+		{
+            "ita":"lingua",
+            "eng":"tongue"
+        },
+
+		{
+            "ita":"pezzo",
+            "eng":"piece"
+        },
+
+		{
+            "ita":"capello",
+            "eng":"hair"
+        },
+
+		{
+            "ita":"regione",
+            "eng":"region"
+        },
+
+		{
+            "ita":"monte",
+            "eng":"Mountain"
+        },
+
+		{
+            "ita":"università",
+            "eng":"university"
+        },
+
+		{
+            "ita":"treno",
+            "eng":"train"
+        },
+
+		{
+            "ita":"inverno",
+            "eng":"winter"
+        },
+
+		{
+            "ita":"nazione",
+            "eng":"nation"
+        },
+
+		{
+            "ita":"pagina",
+            "eng":"page"
+        },
+
+		{
+            "ita":"scopo",
+            "eng":"purpose"
+        },
+
+		{
+            "ita":"compagno",
+            "eng":"partner"
+        },
+
+		{
+            "ita":"necessità",
+            "eng":"need"
+        },
+
+		{
+            "ita":"potere",
+            "eng":"power"
+        },
+
+		{
+            "ita":"musica",
+            "eng":"music"
+        },
+
+		{
+            "ita":"dottore",
+            "eng":"doctor"
+        },
+
+		{
+            "ita":"sentimento",
+            "eng":"feeling"
+        },
+
+		{
+            "ita":"nave",
+            "eng":"ship"
+        },
+
+		{
+            "ita":"pietra",
+            "eng":"Stone"
+        },
+
+		{
+            "ita":"produzione",
+            "eng":"production"
+        },
+
+		{
+            "ita":"speranza",
+            "eng":"hope"
+        },
+
+		{
+            "ita":"dolore",
+            "eng":"ache"
+        },
+
+		{
+            "ita":"carne",
+            "eng":"meat"
+        },
+
+		{
+            "ita":"generale",
+            "eng":"general"
+        },
+
+		{
+            "ita":"proposito",
+            "eng":"purpose"
+        },
+
+		{
+            "ita":"elemento",
+            "eng":"element"
+        },
+
+		{ 
+        "ita":"stazione",
+        "eng":"railway station"
+        },
+
+		{
+            "ita":"materia",
+            "eng":"matter"
+        },
+
+		{
+            "ita":"scala",
+            "eng":"ladder"
+        },
+
+		{
+            "ita":"maniera",
+            "eng":"way"
+        },
+
+		{
+            "ita":"arma",
+            "eng":"weapon"
+        },
+
+		{
+            "ita":"autorità",
+            "eng":"authority"
+        },
+
+		{
+            "ita":"gamba",
+            "eng":"leg"
+        },
+
+		{
+            "ita":"patria",
+            "eng":"homeland"
+        },
+
+		{
+            "ita":"albergo",
+            "eng":"hotel"
+        },
+
+		{
+            "ita":"gioia",
+            "eng":"joy"
+        },
+
+		{
+            "ita":"argomento",
+            "eng":"topic"
+        },
+
+		{
+            "ita":"sguardo",
+            "eng":"look"
+        },
+
+		{
+            "ita":"relazione",
+            "eng":"report"
+        },
+
+		{
+            "ita":"classe",
+            "eng":"class"
+        },
+
+		{
+            "ita":"battaglia",
+            "eng":"battle"
+        },
+
+		{
+            "ita":"viso",
+            "eng":"face"
+        },
+
+		{
+            "ita":"gesto",
+            "eng":"gesture"
+        },
+
+		{
+            "ita":"mattino",
+            "eng":"morning"
+        },
+
+		{
+            "ita":"opinione",
+            "eng":"opinion"
+        },
+
+		{
+            "ita":"ponte",
+            "eng":"bridge"
+        },
+
+		{
+            "ita":"sorriso",
+            "eng":"smile"
+        },
+
+		{
+            "ita":"frase",
+            "eng":"phrase"
+        },
+
+		{
+            "ita":"limite",
+            "eng":"limit"
+        },
+
+		{
+            "ita":"ritorno",
+            "eng":"return"
+        },
+
+		{
+            "ita":"bosco",
+            "eng":"wood"
+        },
+
+		{
+            "ita":"esame",
+            "eng":"exam"
+        },
+
+		{
+            "ita":"lato",
+            "eng":"side"
+        },
+
+		{
+            "ita":"operazione",
+            "eng":"operation"
+        },
+
+		{
+            "ita":"pranzo",
+            "eng":"lunch"
+        },
+
+		{ 
+            "ita":"costa",
+            "eng":"it costs"
+        },
+
+		{
+            "ita":"prato",
+            "eng":"meadow"
+        },
+
+		{
+            "ita":"repubblica",
+            "eng":"republic"
+        },
+
+		{
+            "ita":"valle",
+            "eng":"Valley"
+        },
+
+		{
+            "ita":"nord",
+            "eng":"north"
+        },
+
+		{
+            "ita":"fatica",
+            "eng":"fatigue"
+        },
+
+		{
+            "ita":"odore",
+            "eng":"smell"
+        },
+
+		{
+            "ita":"articolo",
+            "eng":"article"
+        },
+
+		{
+            "ita":"costruzione",
+            "eng":"construction"
+        },
+
+		{
+            "ita":"rivoluzione",
+            "eng":"Revolution"
+        },
+
+		{
+            "ita":"zia",
+            "eng":"aunt"
+        },
+
+		{
+            "ita":"confronto",
+            "eng":"comparison"
+        },
+
+		{
+            "ita":"potenza",
+            "eng":"power"
+        },
+
+		{
+            "ita":"sforzo",
+            "eng":"effort"
+        },
+
+		{
+            "ita":"sicurezza",
+            "eng":"safety"
+        },
+
+		{
+            "ita":"ufficiale",
+            "eng":"official"
+        },
+
+		{
+            "ita":"crisi",
+            "eng":"crisis"
+        },
+
+		{
+            "ita":"cucina",
+            "eng":"kitchen"
+        },
+
+		{
+            "ita":"gatto",
+            "eng":"cat"
+        },
+
+		{
+            "ita":"pietà",
+            "eng":"pity"
+        },
+
+		{
+            "ita":"territorio",
+            "eng":"territory"
+        },
+
+		{
+            "ita":"attimo",
+            "eng":"moment"
+        },
+
+		{
+            "ita":"civiltà",
+            "eng":"civilization"
+        },
+
+		{
+            "ita":"contatto",
+            "eng":"contact"
+        },
+
+		{
+            "ita":"errore",
+            "eng":"error"
+        },
+
+		{
+            "ita":"fretta",
+            "eng":"hurry"
+        },
+
+		{
+            "ita":"intenzione",
+            "eng":"intention"
+        },
+
+		{
+            "ita":"cultura",
+            "eng":"culture"
+        },
+
+		{
+            "ita":"giudizio",
+            "eng":"judgement"
+        },
+
+		{
+            "ita":"spesa",
+            "eng":"expense"
+        },
+
+		{
+            "ita":"aiuto",
+            "eng":"Help"
+        },
+
+		{
+            "ita":"ambiente",
+            "eng":"environment"
+        },
+
+		{
+            "ita":"animo",
+            "eng":"mind"
+        },
+
+		{
+            "ita":"bestia",
+            "eng":"beast"
+        },
+
+		{
+            "ita":"cortile",
+            "eng":"courtyard"
+        },
+
+		{
+            "ita":"pelle",
+            "eng":"skin"
+        },
+
+		{
+            "ita":"proposta",
+            "eng":"proposal"
+        },
+
+		{
+            "ita":"riva",
+            "eng":"shore"
+        },
+
+		{
+            "ita":"segretario",
+            "eng":"secretary"
+        },
+
+		{
+            "ita":"abito",
+            "eng":"dress"
+        },
+
+		{
+            "ita":"chiave",
+            "eng":"key"
+        },
+
+		{
+            "ita":"corrente",
+            "eng":"current"
+        },
+
+		{
+            "ita":"operaio",
+            "eng":"worker"
+        },
+
+		{
+            "ita":"corso",
+            "eng":"course"
+        },
+
+		{
+            "ita":"finestra",
+            "eng":"window"
+        },
+
+		{
+            "ita":"arte",
+            "eng":"art"
+        },
+
+		{
+            "ita":"sistema",
+            "eng":"system"
+        },
+
+		{
+            "ita":"piano",
+            "eng":"plan"
+        },
+
+		{
+            "ita":"bocca",
+            "eng":"mouth"
+        },
+
+		{
+            "ita":"anima",
+            "eng":"soul"
+        },
+
+		{
+            "ita":"palazzo",
+            "eng":"palace"
+        },
+
+		{
+            "ita":"passo",
+            "eng":"step"
+        },
+
+		{
+            "ita":"giornata",
+            "eng":"day"
+        },
+
+		{
+            "ita":"servizio",
+            "eng":"service"
+        },
+
+		{
+            "ita":"rapporto",
+            "eng":"relationship"
+        },
+
+		{
+            "ita":"milione",
+            "eng":"million"
+        },
+
+		{
+            "ita":"stanza",
+            "eng":"room"
+        },
+
+		{
+            "ita":"valore",
+            "eng":"value"
+        },
+
+		{
+            "ita":"colpo",
+            "eng":"blow"
+        },
+
+		{
+            "ita":"sangue",
+            "eng":"blood"
+        },
+
+		{
+            "ita":"interesse",
+            "eng":"interest"
+        },
+
+		{
+            "ita":"spalla",
+            "eng":"shoulder"
+        },
+
+		{
+            "ita":"silenzio",
+            "eng":"silence"
+        },
+
+		{ 
+            "ita":"signorina",
+            "eng":"young lady"
+        },
+
+		{
+            "ita":"ombra",
+            "eng":"shadow"
+        },
+
+		{
+            "ita":"azione",
+            "eng":"action"
+        },
+
+		{
+            "ita":"vento",
+            "eng":"wind"
+        },
+
+		{
+            "ita":"mattina",
+            "eng":"morning"
+        },
+
+		{
+            "ita":"colore",
+            "eng":"color"
+        },
+
+		{
+            "ita":"presidente",
+            "eng":"president"
+        },
+
+		{
+            "ita":"consiglio",
+            "eng":"Advice"
+        },
+
+		{
+            "ita":"principe",
+            "eng":"prince"
+        },
+
+		{
+            "ita":"viaggio",
+            "eng":"travel"
+        },
+
+		{
+            "ita":"genere",
+            "eng":"kind"
+        },
+
+		{
+            "ita":"giornale",
+            "eng":"newspaper"
+        },
+
+		{
+            "ita":"spirito",
+            "eng":"spirit"
+        },
+
+		{
+            "ita":"cavallo",
+            "eng":"horse"
+        },
+
+		{
+            "ita":"muro",
+            "eng":"Wall"
+        },
+
+		{
+            "ita":"situazione",
+            "eng":"situation"
+        },
+
+		{
+            "ita":"linea",
+            "eng":"line"
+        },
+
+		{
+            "ita":"giro",
+            "eng":"round"
+        },
+
+		{
+            "ita":"automobile",
+            "eng":"car"
+        },
+
+		{
+            "ita":"atto",
+            "eng":"act"
+        },
+
+		{
+            "ita":"aspetto",
+            "eng":"appearance"
+        },
+
+		{
+            "ita":"età",
+            "eng":"age"
+        },
+
+		{
+            "ita":"fortuna",
+            "eng":"luck"
+        },
+
+		{
+            "ita":"oro",
+            "eng":"gold"
+        },
+
+		{
+            "ita":"partito",
+            "eng":"party"
+        },
+
+		{
+            "ita":"macchina",
+            "eng":"machine"
+        },
+
+		{
+            "ita":"carta",
+            "eng":"paper"
+        },
+
+		{
+            "ita":"minuto",
+            "eng":"minute"
+        },
+
+		{
+            "ita":"tratto",
+            "eng":"stretch"
+        },
+
+		{
+            "ita":"settimana",
+            "eng":"week"
+        },
+
+		{
+            "ita":"notizia",
+            "eng":"news"
+        },
+
+		{
+            "ita":"fratello",
+            "eng":"brother"
+        },
+
+		{
+            "ita":"realtà",
+            "eng":"reality"
+        },
+
+		{
+            "ita":"industria",
+            "eng":"industry"
+        },
+
+		{
+            "ita":"piacere",
+            "eng":"pleasure"
+        },
+
+		{
+            "ita":"maestro",
+            "eng":"master"
+        },
+
+		{
+            "ita":"personaggio",
+            "eng":"character"
+        },
+
+		{
+            "ita":"pomeriggio",
+            "eng":"afternoon"
+        },
+
+		{
+            "ita":"fianco",
+            "eng":"side"
+        },
+
+		{
+            "ita":"bambina",
+            "eng":"child"
+        },
+
+		{
+            "ita":"bellezza",
+            "eng":"beauty"
+        },
+
+		{
+            "ita":"domanda",
+            "eng":"question"
+        },
+
+		{
+            "ita":"pianta",
+            "eng":"plant"
+        },
+
+		{
+            "ita":"pubblico",
+            "eng":"public"
+        },
+
+		{
+            "ita":"sede",
+            "eng":"seat"
+        },
+
+		{
+            "ita":"affare",
+            "eng":"deal"
+        },
+
+		{
+            "ita":"bene",
+            "eng":"well"
+        },
+
+		{
+            "ita":"metà",
+            "eng":"half"
+        },
+
+		{
+            "ita":"papà",
+            "eng":"Pope"
+        },
+
+		{
+            "ita":"fiume",
+            "eng":"river"
+        },
+
+		{
+            "ita":"lotta",
+            "eng":"fight"
+        },
+
+		{
+            "ita":"mercato",
+            "eng":"market"
+        },
+
+		{
+            "ita":"angolo",
+            "eng":"angle"
+        },
+
+		{
+            "ita":"compagnia",
+            "eng":"company"
+        },
+
+		{
+            "ita":"espressione",
+            "eng":"expression"
+        },
+
+		{
+            "ita":"labbro",
+            "eng":"lip"
+        },
+
+		{
+            "ita":"villa",
+            "eng":"villa"
+        },
+
+		{
+            "ita":"desiderio",
+            "eng":"desire"
+        },
+
+		{
+            "ita":"serie",
+            "eng":"series"
+        },
+
+		{
+            "ita":"visita",
+            "eng":"visit"
+        },
+
+		{
+            "ita":"coraggio",
+            "eng":"courage"
+        },
+
+		{
+            "ita":"direttore",
+            "eng":"director"
+        },
+
+		{
+            "ita":"esercito",
+            "eng":"army"
+        },
+
+		{
+            "ita":"grado",
+            "eng":"degree"
+        },
+
+		{
+            "ita":"padrone",
+            "eng":"master"
+        },
+
+		{
+            "ita":"risposta",
+            "eng":"reply"
+        },
+
+		{
+            "ita":"tavola",
+            "eng":"table"
+        },
+
+		{
+            "ita":"immagine",
+            "eng":"image"
+        },
+
+		{
+            "ita":"montagna",
+            "eng":"mountain"
+        },
+
+		{
+            "ita":"energia",
+            "eng":"power"
+        },
+
+		{ 
+        "ita":"fede",
+        "eng":"wedding ring"
+        },
+
+		{
+            "ita":"pane",
+            "eng":"bread"
+        },
+
+		{
+            "ita":"seguito",
+            "eng":"following"
+        },
+
+		{
+            "ita":"estate",
+            "eng":"summer"
+        },
+
+		{
+            "ita":"film",
+            "eng":"movie"
+        },
+
+		{
+            "ita":"frutto",
+            "eng":"fruit"
+        },
+
+		{
+            "ita":"onore",
+            "eng":"honor"
+        },
+
+		{
+            "ita":"pericolo",
+            "eng":"danger"
+        },
+
+		{
+            "ita":"scrittore",
+            "eng":"writer"
+        },
+
+		{
+            "ita":"collina",
+            "eng":"hill"
+        },
+
+		{
+            "ita":"zio",
+            "eng":"uncle"
+        },
+
+		{
+            "ita":"difesa",
+            "eng":"defence"
+        },
+
+		{
+            "ita":"metro",
+            "eng":"meter"
+        },
+
+		{
+            "ita":"collo",
+            "eng":"neck"
+        },
+
+		{
+            "ita":"cura",
+            "eng":"care"
+        },
+
+		{
+            "ita":"disposizione",
+            "eng":"layout"
+        },
+
+		{
+            "ita":"Domenica",
+            "eng":"Sunday"
+        },
+
+		{ 
+            "ita":"giovanotto",
+            "eng":"young man"
+        },
+
+		{
+            "ita":"poeta",
+            "eng":"poet"
+        },
+
+		{
+            "ita":"stagione",
+            "eng":"season"
+        },
+
+		{
+            "ita":"peso",
+            "eng":"weight"
+        },
+
+		{
+            "ita":"tono",
+            "eng":"tone"
+        },
+
+		{
+            "ita":"croce",
+            "eng":"cross"
+        },
+
+		{
+            "ita":"decisione",
+            "eng":"decision"
+        },
+
+		{
+            "ita":"poesia",
+            "eng":"poetry"
+        },
+
+		{
+            "ita":"fiducia",
+            "eng":"confidence"
+        },
+
+		{
+            "ita":"filo",
+            "eng":"wire"
+        },
+
+		{
+            "ita":"folla",
+            "eng":"crowd"
+        },
+
+		{
+            "ita":"qualità",
+            "eng":"quality"
+        },
+
+		{
+            "ita":"roba",
+            "eng":"stuff"
+        },
+
+		{
+            "ita":"conoscenza",
+            "eng":"knowledge"
+        },
+
+		{
+            "ita":"favore",
+            "eng":"favor"
+        },
+
+		{
+            "ita":"popolazione",
+            "eng":"population"
+        },
+
+		{
+            "ita":"strumento",
+            "eng":"tool"
+        },
+
+		{
+            "ita":"uso",
+            "eng":"use"
+        },
+
+		{
+            "ita":"vestito",
+            "eng":"dress"
+        },
+
+		{
+            "ita":"commercio",
+            "eng":"business"
+        },
+
+		{
+            "ita":"fabbrica",
+            "eng":"factory"
+        },
+
+		{
+            "ita":"giugno",
+            "eng":"June"
+        },
+
+		{
+            "ita":"giustizia",
+            "eng":"justice"
+        },
+
+		{
+            "ita":"avvocato",
+            "eng":"lawyer"
+        },
+
+		{
+            "ita":"messa",
+            "eng":"mass"
+        },
+
+		{
+            "ita":"orecchio",
+            "eng":"ear"
+        },
+
+		{
+            "ita":"sonno",
+            "eng":"sleep"
+        },
+
+		{
+            "ita":"congresso",
+            "eng":"congress"
+        },
+
+		{
+            "ita":"porto",
+            "eng":"port"
+        },
+
+		{
+            "ita":"calcio",
+            "eng":"football"
+        },
+
+		{
+            "ita":"fantasia",
+            "eng":"fantasy"
+        },
+
+		{
+            "ita":"matrimonio",
+            "eng":"marriage"
+        },
+
+		{
+            "ita":"medico",
+            "eng":"doctor"
+        },
+
+		{
+            "ita":"ospedale",
+            "eng":"Hospital"
+        },
+
+		{ 
+            "ita":"pianura",
+            "eng":"flat land"
+        },
+
+		{
+            "ita":"tavolo",
+            "eng":"table"
+        },
+
+		{
+            "ita":"fame",
+            "eng":"hunger"
+        },
+
+		{
+            "ita":"latte",
+            "eng":"milk"
+        },
+
+		{
+            "ita":"merito",
+            "eng":"merit"
+        },
+
+		{
+            "ita":"attore",
+            "eng":"actor"
+        },
+
+		{
+            "ita":"ricchezza",
+            "eng":"wealth"
+        },
+
+		{
+            "ita":"sacrificio",
+            "eng":"sacrifice"
+        },
+
+		{
+            "ita":"atteggiamento",
+            "eng":"attitude"
+        },
+
+		{
+            "ita":"concetto",
+            "eng":"concept"
+        },
+
+		{
+            "ita":"mestiere",
+            "eng":"craft"
+        },
+
+		{
+            "ita":"attesa",
+            "eng":"waiting"
+        },
+
+		{
+            "ita":"bagno",
+            "eng":"bathroom"
+        },
+
+		{
+            "ita":"foglia",
+            "eng":"leaf"
+        },
+
+		{
+            "ita":"istante",
+            "eng":"instant"
+        },
+
+		{
+            "ita":"lago",
+            "eng":"lake"
+        },
+
+        {
+            "ita":"questo",
+            "eng":"this"
+        },
+
+        {
+            "ita":"quello",
+            "eng":"one"
+        },
+
+        {
+            "ita":"più",
+            "eng":"more"
+        },
+
+        {
+            "ita":"tutto",
+            "eng":"all"
+        },
+
+        {
+            "ita":"suo",
+            "eng":"his"
+        },
+
+        {
+            "ita":"altro",
+            "eng":"other"
+        },
+
+        {
+            "ita":"mio",
+            "eng":"my"
+        },
+
+        {
+            "ita":"quale",
+            "eng":"which"
+        },
+
+        {
+            "ita":"tanto",
+            "eng":"much"
+        },
+
+        {
+            "ita":"grande",
+            "eng":"great"
+        },
+
+        {
+            "ita":"poco",
+            "eng":"little"
+        },
+
+        {
+            "ita":"molto",
+            "eng":"very"
+        },
+
+        {
+            "ita":"nostro",
+            "eng":"our"
+        },
+
+        {
+            "ita":"stesso",
+            "eng":"same"
+        },
+
+        {
+            "ita":"primo",
+            "eng":"first"
+        },
+
+        {
+            "ita":"loro",
+            "eng":"their"
+        },
+
+        {
+            "ita":"ogni",
+            "eng":"every"
+        },
+
+        {
+            "ita":"proprio",
+            "eng":"own"
+        },
+
+        {
+            "ita":"solo",
+            "eng":"only"
+        },
+
+        {
+            "ita":"quanto",
+            "eng":"how much"
+        },
+
+        {
+            "ita":"bello",
+            "eng":"beautiful"
+        },
+
+        {
+            "ita":"qualche",
+            "eng":"some"
+        },
+
+        {
+            "ita":"nuovo",
+            "eng":"new"
+        },
+
+        {
+            "ita":"certo",
+            "eng":"of course"
+        },
+
+        {
+            "ita":"vero",
+            "eng":"true"
+        },
+
+        {
+            "ita":"buono",
+            "eng":"good"
+        },
+
+        {
+            "ita":"tuo",
+            "eng":"your"
+        },
+
+        {
+            "ita":"nessuno",
+            "eng":"nobody"
+        },
+
+        {
+            "ita":"alcuno",
+            "eng":"any"
+        },
+
+        {
+            "ita":"italiano",
+            "eng":"Italian"
+        },
+
+        {
+            "ita":"ultimo",
+            "eng":"last"
+        },
+
+        {
+            "ita":"vecchio",
+            "eng":"old"
+        },
+
+        {
+            "ita":"piccolo",
+            "eng":"small"
+        },
+
+        {
+            "ita":"troppo",
+            "eng":"too much"
+        },
+
+        {
+            "ita":"tale",
+            "eng":"such"
+        },
+
+        {
+            "ita":"giovane",
+            "eng":"young"
+        },
+
+        {
+            "ita":"alto",
+            "eng":"tall"
+        },
+
+        {
+            "ita":"vostro",
+            "eng":"your"
+        },
+
+        {
+            "ita":"diverso",
+            "eng":"different"
+        },
+
+        {
+            "ita":"meglio",
+            "eng":"better"
+        },
+
+        {
+            "ita":"lungo",
+            "eng":"long"
+        },
+
+        {
+            "ita":"povero",
+            "eng":"poor"
+        },
+
+        {
+            "ita":"maggiore",
+            "eng":"greater"
+        },
+
+        {
+            "ita":"mezzo",
+            "eng":"half"
+        },
+
+        {
+            "ita":"secondo",
+            "eng":"second"
+        },
+
+        {
+            "ita":"lontano",
+            "eng":"far"
+        },
+
+        {
+            "ita":"vicino",
+            "eng":"close"
+        },
+
+        {
+            "ita":"possibile",
+            "eng":"possible"
+        },
+
+        {
+            "ita":"caro",
+            "eng":"Dear"
+        },
+
+        {
+            "ita":"pieno",
+            "eng":"full"
+        },
+
+        {
+            "ita":"nero",
+            "eng":"black"
+        },
+
+        {
+            "ita":"particolare",
+            "eng":"particular"
+        },
+
+        {
+            "ita":"bianco",
+            "eng":"White"
+        },
+
+        {
+            "ita":"forte",
+            "eng":"strong"
+        },
+
+        {
+            "ita":"politico",
+            "eng":"politic"
+        },
+
+        {
+            "ita":"attuale",
+            "eng":"current"
+        },
+
+        {
+            "ita":"latino",
+            "eng":"Latin"
+        },
+
+        {
+            "ita":"impossibile",
+            "eng":"impossible"
+        },
+
+        {
+            "ita":"sereno",
+            "eng":"serene"
+        },
+
+        {
+            "ita":"puro",
+            "eng":"pure"
+        },
+
+        {
+            "ita":"normale",
+            "eng":"normal"
+        },
+
+        {
+            "ita":"perfetto",
+            "eng":"perfect"
+        },
+
+        {
+            "ita":"piano",
+            "eng":"plan"
+        },
+
+        {
+            "ita":"caratteristico",
+            "eng":"characteristic"
+        },
+
+        {
+            "ita":"russo",
+            "eng":"Russian"
+        },
+
+        {
+            "ita":"continuo",
+            "eng":"continuous"
+        },
+
+        {
+            "ita":"stupido",
+            "eng":"stupid"
+        },
+
+        {
+            "ita":"estremo",
+            "eng":"extreme"
+        },
+
+        {
+            "ita":"grigio",
+            "eng":"grey"
+        },
+
+        {
+            "ita":"reale",
+            "eng":"real"
+        },
+
+        {
+            "ita":"interessante",
+            "eng":"Interesting"
+        },
+
+        {
+            "ita":"medesimo",
+            "eng":"same"
+        },
+
+        {
+            "ita":"religioso",
+            "eng":"religious"
+        },
+
+        {
+            "ita":"ampio",
+            "eng":"large"
+        },
+
+        {
+            "ita":"biondo",
+            "eng":"blond"
+        },
+
+        {
+            "ita":"ufficiale",
+            "eng":"official"
+        },
+
+        {
+            "ita":"attento",
+            "eng":"careful"
+        },
+
+        {
+            "ita":"enorme",
+            "eng":"huge"
+        },
+
+        {
+            "ita":"sottile",
+            "eng":"thin"
+        },
+
+        {
+            "ita":"triste",
+            "eng":"sad"
+        },
+
+        {
+            "ita":"minimo",
+            "eng":"minimum"
+        },
+
+        {
+            "ita":"privato",
+            "eng":"private"
+        },
+
+        {
+            "ita":"rapido",
+            "eng":"rapid"
+        },
+
+        {
+            "ita":"quarto",
+            "eng":"fourth"
+        },
+
+        {
+            "ita":"diretto",
+            "eng":"direct"
+        },
+
+        {
+            "ita":"nobile",
+            "eng":"noble"
+        },
+
+        {
+            "ita":"pericoloso",
+            "eng":"dangerous"
+        },
+
+        {
+            "ita":"giallo",
+            "eng":"yellow"
+        },
+
+        {
+            "ita":"pazzo",
+            "eng":"crazy"
+        },
+
+        {
+            "ita":"sacro",
+            "eng":"sacred"
+        },
+
+        {
+            "ita":"comodo",
+            "eng":"comfortable"
+        },
+
+        {
+            "ita":"elettrico",
+            "eng":"electric"
+        },
+
+        {
+            "ita":"assoluto",
+            "eng":"absolute"
+        },
+
+        {
+            "ita":"cristiano",
+            "eng":"Christian"
+        },
+
+        {
+            "ita":"antico",
+            "eng":"ancient"
+        },
+
+        {
+            "ita":"rosso",
+            "eng":"red"
+        },
+
+        {
+            "ita":"chiaro",
+            "eng":"clear"
+        },
+
+        {
+            "ita":"unico",
+            "eng":"single"
+        },
+
+        {
+            "ita":"sicuro",
+            "eng":"sure"
+        },
+
+        {
+            "ita":"importante",
+            "eng":"important"
+        },
+
+        {
+            "ita":"vario",
+            "eng":"varied"
+        },
+
+        {
+            "ita":"giusto",
+            "eng":"quite right"
+        },
+
+        {
+            "ita":"francese",
+            "eng":"French"
+        },
+
+        {
+            "ita":"vivo",
+            "eng":"I live"
+        },
+
+        {
+            "ita":"generale",
+            "eng":"general"
+        },
+
+        {
+            "ita":"ricco",
+            "eng":"rich"
+        },
+
+        {
+            "ita":"grosso",
+            "eng":"big"
+        },
+
+        {
+            "ita":"necessario",
+            "eng":"necessary"
+        },
+
+        {
+            "ita":"libero",
+            "eng":"free"
+        },
+
+        {
+            "ita":"nazionale",
+            "eng":"national"
+        },
+
+        {
+            "ita":"basso",
+            "eng":"bass"
+        },
+
+        {
+            "ita":"semplice",
+            "eng":"simple"
+        },
+
+        {
+            "ita":"grave",
+            "eng":"serious"
+        },
+
+        {
+            "ita":"pubblico",
+            "eng":"public"
+        },
+
+        {
+            "ita":"comune",
+            "eng":"common"
+        },
+
+        {
+            "ita":"freddo",
+            "eng":"cold"
+        },
+
+        {
+            "ita":"economico",
+            "eng":"cheap"
+        },
+
+        {
+            "ita":"felice",
+            "eng":"happy"
+        },
+
+        {
+            "ita":"difficile",
+            "eng":"difficult"
+        },
+
+        {
+            "ita":"tedesco",
+            "eng":"german"
+        },
+
+        {
+            "ita":"breve",
+            "eng":"short"
+        },
+
+        {
+            "ita":"pronto",
+            "eng":"ready"
+        },
+
+        {
+            "ita":"serio",
+            "eng":"serious"
+        },
+
+        {
+            "ita":"presente",
+            "eng":"here I'm"
+        },
+
+        {
+            "ita":"migliore",
+            "eng":"best"
+        },
+
+        {
+            "ita":"facile",
+            "eng":"easy"
+        },
+
+        {
+            "ita":"terzo",
+            "eng":"third"
+        },
+
+        {
+            "ita":"caldo",
+            "eng":"hot"
+        },
+
+        {
+            "ita":"estero",
+            "eng":"abroad"
+        },
+
+        {
+            "ita":"largo",
+            "eng":"wide"
+        },
+
+        {
+            "ita":"pricipale",
+            "eng":"pricipale"
+        },
+
+        {
+            "ita":"verde",
+            "eng":"green"
+        },
+
+        {
+            "ita":"romano",
+            "eng":"Roman"
+        },
+
+        {
+            "ita":"umano",
+            "eng":"human"
+        },
+
+        {
+            "ita":"inutile",
+            "eng":"useless"
+        },
+
+        {
+            "ita":"moderno",
+            "eng":"modern"
+        },
+
+        {
+            "ita":"numeroso",
+            "eng":"numerous"
+        },
+
+        {
+            "ita":"simile",
+            "eng":"similar"
+        },
+
+        {
+            "ita":"fresco",
+            "eng":"fresh"
+        },
+
+        {
+            "ita":"militare",
+            "eng":"military"
+        },
+
+        {
+            "ita":"americano",
+            "eng":"American"
+        },
+
+        {
+            "ita":"vuoto",
+            "eng":"empty"
+        },
+
+        {
+            "ita":"ciascuno",
+            "eng":"each"
+        },
+
+        {
+            "ita":"tranquillo",
+            "eng":"quiet"
+        },
+
+        {
+            "ita":"contento",
+            "eng":"happy"
+        },
+
+        {
+            "ita":"storico",
+            "eng":"historical"
+        },
+
+        {
+            "ita":"superiore",
+            "eng":"higher"
+        },
+
+        {
+            "ita":"inglese",
+            "eng":"english"
+        },
+
+        {
+            "ita":"fermo",
+            "eng":"stationary"
+        },
+
+        {
+            "ita":"solito",
+            "eng":"usual"
+        },
+
+        {
+            "ita":"buio",
+            "eng":"dark"
+        },
+
+        {
+            "ita":"strano",
+            "eng":"strange"
+        },
+
+        {
+            "ita":"noto",
+            "eng":"known"
+        },
+
+        {
+            "ita":"prossimo",
+            "eng":"next one"
+        },
+
+        {
+            "ita":"profondo",
+            "eng":"deep"
+        },
+
+        {
+            "ita":"sociale",
+            "eng":"social"
+        },
+
+        {
+            "ita":"cattivo",
+            "eng":"bad"
+        },
+
+        {
+            "ita":"massimo",
+            "eng":"maximum"
+        },
+
+        {
+            "ita":"intero",
+            "eng":"full"
+        },
+
+        {
+            "ita":"uguale",
+            "eng":"equal"
+        },
+
+        {
+            "ita":"bravo",
+            "eng":"good boy"
+        },
+
+        {
+            "ita":"brutto",
+            "eng":"ugly"
+        },
+
+        {
+            "ita":"preciso",
+            "eng":"accurate"
+        },
+
+        {
+            "ita":"qualsiasi",
+            "eng":"any"
+        },
+
+        {
+            "ita":"improvviso",
+            "eng":"sudden"
+        },
+
+        {
+            "ita":"famoso",
+            "eng":"famous"
+        },
+
+        {
+            "ita":"straniero",
+            "eng":"foreigner"
+        },
+
+        {
+            "ita":"civile",
+            "eng":"civil"
+        },
+
+        {
+            "ita":"internazionale",
+            "eng":"international"
+        },
+
+        {
+            "ita":"interno",
+            "eng":"internal"
+        },
+
+        {
+            "ita":"vasto",
+            "eng":"extensive"
+        },
+
+        {
+            "ita":"segreto",
+            "eng":"secret"
+        },
+
+        {
+            "ita":"greco",
+            "eng":"Greek"
+        },
+
+        {
+            "ita":"naturale",
+            "eng":"natural"
+        },
+
+        {
+            "ita":"sinistro",
+            "eng":"left"
+        },
+
+        {
+            "ita":"duro",
+            "eng":"hard"
+        },
+
+        {
+            "ita":"stanco",
+            "eng":"tired"
+        },
+
+        {
+            "ita":"azzurro",
+            "eng":"light blue"
+        },
+
+        {
+            "ita":"recente",
+            "eng":"recent"
+        },
+
+        {
+            "ita":"notevole",
+            "eng":"remarkable"
+        },
+
+        {
+            "ita":"cittadino",
+            "eng":"citizen"
+        },
+
+        {
+            "ita":"destro",
+            "eng":"right"
+        },
+
+        {
+            "ita":"europeo",
+            "eng":"European"
+        },
+
+        {
+            "ita":"zitto",
+            "eng":"quiet"
+        },
+
+        {
+            "ita":"medio",
+            "eng":"average"
+        },
+
+        {
+            "ita":"qualunque",
+            "eng":"whatever"
+        },
+
+        {
+            "ita":"straordinario",
+            "eng":"extraordinary"
+        },
+
+        {
+            "ita":"nudo",
+            "eng":"naked"
+        },
+
+        {
+            "ita":"futuro",
+            "eng":"future"
+        },
+
+        {
+            "ita":"cattolico",
+            "eng":"Catholic"
+        },
+
+        {
+            "ita":"capace",
+            "eng":"able"
+        },
+
+        {
+            "ita":"industriale",
+            "eng":"industrial"
+        },
+
+        {
+            "ita":"personale",
+            "eng":"staff"
+        },
+
+        {
+            "ita":"centrale",
+            "eng":"central"
+        },
+
+        {
+            "ita":"tecnico",
+            "eng":"technical"
+        },
+
+        {
+            "ita":"dolce",
+            "eng":"sweet"
+        },
+
+        {
+            "ita":"leggero",
+            "eng":"light"
+        },
+
+        {
+            "ita":"morale",
+            "eng":"moral"
+        },
+
+        {
+            "ita":"utile",
+            "eng":"helpful"
+        },
+
+        {
+            "ita":"contrario",
+            "eng":"contrary"
+        },
+
+        {
+            "ita":"speciale",
+            "eng":"special"
+        },
+
+        {
+            "ita":"peggio",
+            "eng":"worse"
+        },
+
+        {
+            "ita":"minore",
+            "eng":"lower"
+        },
+
+        {
+            "ita":"contadino",
+            "eng":"farmer"
+        },
+
+        {
+            "ita":"essere",
+            "eng":"to be"
+        },
+
+        {
+            "ita":"avere",
+            "eng":"to have"
+        },
+
+        {
+            "ita":"dire",
+            "eng":"to say"
+        },
+
+        {
+            "ita":"potere",
+            "eng":"can"
+        },
+
+        {
+            "ita":"volere",
+            "eng":"want"
+        },
+
+        {
+            "ita":"sapere",
+            "eng":"to know"
+        },
+
+        {
+            "ita":"stare",
+            "eng":"to stay"
+        },
+
+        {
+            "ita":"dovere",
+            "eng":"must"
+        },
+
+        {
+            "ita":"vedere",
+            "eng":"to see"
+        },
+
+        {
+            "ita":"andare",
+            "eng":"to go"
+        },
+
+        {
+            "ita":"venire",
+            "eng":"to come"
+        },
+
+        {
+            "ita":"dare",
+            "eng":"to give"
+        },
+
+        {
+            "ita":"parlare",
+            "eng":"to speak"
+        },
+
+        {
+            "ita":"trovare",
+            "eng":"to find"
+        },
+
+        {
+            "ita":"sentire",
+            "eng":"to feel, to hear"
+        },
+
+        {
+            "ita":"lasciare",
+            "eng":"to leave"
+        },
+
+        {
+            "ita":"prendere",
+            "eng":"to take"
+        },
+
+        {
+            "ita":"guardare",
+            "eng":"to look"
+        },
+
+        {
+            "ita":"mettere",
+            "eng":"to put"
+        },
+
+        {
+            "ita":"pensare",
+            "eng":"to think"
+        },
+
+        {
+            "ita":"passare",
+            "eng":"to pass"
+        },
+
+        {
+            "ita":"credere",
+            "eng":"to believe"
+        },
+
+        {
+            "ita":"portare",
+            "eng":"to bring"
+        },
+
+        {
+            "ita":"parere",
+            "eng":"to seem"
+        },
+
+        {
+            "ita":"tornare",
+            "eng":"to return"
+        },
+
+        {
+            "ita":"sembrare",
+            "eng":"to seem, to look like"
+        },
+
+        {
+            "ita":"tenere",
+            "eng":"to keep"
+        },
+
+        {
+            "ita":"capire",
+            "eng":"to understand"
+        },
+
+        {
+            "ita":"morire",
+            "eng":"to die"
+        },
+
+        {
+            "ita":"chiamare",
+            "eng":"to call"
+        },
+
+        {
+            "ita":"conoscere",
+            "eng":"to know"
+        },
+
+        {
+            "ita":"rimanere",
+            "eng":"to stay"
+        },
+
+        {
+            "ita":"chiedere",
+            "eng":"to ask"
+        },
+
+        {
+            "ita":"cercare",
+            "eng":"to search for"
+        },
+
+        {
+            "ita":"entrare",
+            "eng":"to come in"
+        },
+
+        {
+            "ita":"vivere",
+            "eng":"to live"
+        },
+
+        {
+            "ita":"aprire",
+            "eng":"to open"
+        },
+
+        {
+            "ita":"uscire",
+            "eng":"to go out"
+        },
+
+        {
+            "ita":"ricordare",
+            "eng":"to remember"
+        },
+
+        {
+            "ita":"bisognare",
+            "eng":"need"
+        },
+
+        {
+            "ita":"cominciare",
+            "eng":"to begin"
+        },
+
+        {
+            "ita":"rispondere",
+            "eng":"to answer, to reply"
+        },
+
+        {
+            "ita":"aspettare",
+            "eng":"to wait"
+        },
+
+        {
+            "ita":"riuscire",
+            "eng":"to succeed"
+        },
+
+        {
+            "ita":"chiudere",
+            "eng":"to close"
+        },
+
+        {
+            "ita":"finire",
+            "eng":"to finish"
+        },
+
+        {
+            "ita":"arrivare",
+            "eng":"to arrive"
+        },
+
+        {
+            "ita":"scrivere",
+            "eng":"to write"
+        },
+
+        {
+            "ita":"diventare",
+            "eng":"to become"
+        },
+
+        {
+            "ita":"restare",
+            "eng":"to remain"
+        },
+
+        {
+            "ita":"seguire",
+            "eng":"to follow"
+        },
+
+        {
+            "ita":"bastare",
+            "eng":"to suffice"
+        },
+
+        {
+            "ita":"perdere",
+            "eng":"to lose"
+        },
+
+        {
+            "ita":"rendere",
+            "eng":"to make (big, small..)"
+        },
+
+        {
+            "ita":"correre",
+            "eng":"to run"
+        },
+
+        {
+            "ita":"salvare",
+            "eng":"to save"
+        },
+
+        {
+            "ita":"vestire",
+            "eng":"to dress"
+        },
+
+        {
+            "ita":"costruire",
+            "eng":"to build"
+        },
+
+        {
+            "ita":"camminare",
+            "eng":"to walk"
+        },
+
+        {
+            "ita":"ritrovare",
+            "eng":"to find again"
+        },
+
+        {
+            "ita":"durare",
+            "eng":"to last"
+        },
+
+        {
+            "ita":"accendere",
+            "eng":"to turn on"
+        },
+
+        {
+            "ita":"evitare",
+            "eng":"to avoid"
+        },
+
+        {
+            "ita":"immaginare",
+            "eng":"to imagine"
+        },
+
+        {
+            "ita":"ridurre",
+            "eng":"to reduce"
+        },
+
+        {
+            "ita":"contenere",
+            "eng":"to contain"
+        },
+
+        {
+            "ita":"fissare",
+            "eng":"to fix"
+        },
+
+        {
+            "ita":"costringere",
+            "eng":"to force"
+        },
+
+        {
+            "ita":"abbandonare",
+            "eng":"to abandon"
+        },
+
+        {
+            "ita":"attendere",
+            "eng":"to wait for"
+        },
+
+        {
+            "ita":"preferire",
+            "eng":"to prefer"
+        },
+
+        {
+            "ita":"scegliere",
+            "eng":"to choose"
+        },
+
+        {
+            "ita":"avvertire",
+            "eng":"to warn"
+        },
+
+        {
+            "ita":"proporre",
+            "eng":"to propose"
+        },
+
+        {
+            "ita":"temere",
+            "eng":"to fear"
+        },
+
+        {
+            "ita":"esprimere",
+            "eng":"to express"
+        },
+
+        {
+            "ita":"spingere",
+            "eng":"to push"
+        },
+
+        {
+            "ita":"salutare",
+            "eng":"to greet"
+        },
+
+        {
+            "ita":"udire",
+            "eng":"to hear"
+        },
+
+        {
+            "ita":"difendere",
+            "eng":"to stick up for"
+        },
+
+        {
+            "ita":"dirigere",
+            "eng":"to direct"
+        },
+
+        {
+            "ita":"cantare",
+            "eng":"to sing"
+        },
+
+        {
+            "ita":"sorgere",
+            "eng":"to rise"
+        },
+
+        {
+            "ita":"assicurare",
+            "eng":"to ensure"
+        },
+
+        {
+            "ita":"assumere",
+            "eng":"to hire"
+        },
+
+        {
+            "ita":"tendere",
+            "eng":"to tend"
+        },
+
+        {
+            "ita":"dividere",
+            "eng":"to divide"
+        },
+
+        {
+            "ita":"scusare",
+            "eng":"to excuse"
+        },
+
+        {
+            "ita":"mantenere",
+            "eng":"to maintain"
+        },
+
+        {
+            "ita":"ritenere",
+            "eng":"to consider"
+        },
+
+        {
+            "ita":"concludere",
+            "eng":"to conclude"
+        },
+
+        {
+            "ita":"saltare",
+            "eng":"to jump"
+        },
+
+        {
+            "ita":"stabilire",
+            "eng":"to establish"
+        },
+
+        {
+            "ita":"appartenere",
+            "eng":"to belong"
+        },
+
+        {
+            "ita":"possedere",
+            "eng":"to possess"
+        },
+
+        {
+            "ita":"risultare",
+            "eng":"to result"
+        },
+
+        {
+            "ita":"suonare",
+            "eng":"to play"
+        },
+
+        {
+            "ita":"coprire",
+            "eng":"to cover up"
+        },
+
+        {
+            "ita":"insegnare",
+            "eng":"to teach"
+        },
+
+        {
+            "ita":"affermare",
+            "eng":"to assert"
+        },
+
+        {
+            "ita":"rivelare",
+            "eng":"to reveal"
+        },
+
+        {
+            "ita":"conservare",
+            "eng":"to preserve"
+        },
+
+        {
+            "ita":"risolvere",
+            "eng":"to solve"
+        },
+
+        {
+            "ita":"concedere",
+            "eng":"to grant"
+        },
+
+        {
+            "ita":"limitare",
+            "eng":"to limit"
+        },
+
+        {
+            "ita":"abitare",
+            "eng":"to live"
+        },
+
+        {
+            "ita":"convincere",
+            "eng":"to convince"
+        },
+
+        {
+            "ita":"comprare",
+            "eng":"to buy"
+        },
+
+        {
+            "ita":"legare",
+            "eng":"to tie"
+        },
+
+        {
+            "ita":"sostenere",
+            "eng":"to sustain"
+        },
+
+        {
+            "ita":"nascere",
+            "eng":"to be born"
+        },
+
+        {
+            "ita":"presentare",
+            "eng":"to introduce"
+        },
+
+        {
+            "ita":"trattare",
+            "eng":"to deal"
+        },
+
+        {
+            "ita":"piacere",
+            "eng":"to like"
+        },
+
+        {
+            "ita":"continuare",
+            "eng":"to continue"
+        },
+
+        {
+            "ita":"partire",
+            "eng":"to leave"
+        },
+
+        {
+            "ita":"servire",
+            "eng":"to serve"
+        },
+
+        {
+            "ita":"giungere",
+            "eng":"to reach"
+        },
+
+        {
+            "ita":"fermare",
+            "eng":"to stop"
+        },
+
+        {
+            "ita":"apparire",
+            "eng":"to appear"
+        },
+
+        {
+            "ita":"amare",
+            "eng":"to love"
+        },
+
+        {
+            "ita":"esistere",
+            "eng":"to exist"
+        },
+
+        {
+            "ita":"intendere",
+            "eng":"to hear"
+        },
+
+        {
+            "ita":"salire",
+            "eng":"to go up"
+        },
+
+        {
+            "ita":"mancare",
+            "eng":"to miss"
+        },
+
+        {
+            "ita":"ridere",
+            "eng":"to laugh"
+        },
+
+        {
+            "ita":"lavorare",
+            "eng":"to work"
+        },
+
+        {
+            "ita":"alzare",
+            "eng":"to raise up"
+        },
+
+        {
+            "ita":"riconoscere",
+            "eng":"to recognize"
+        },
+
+        {
+            "ita":"sedere",
+            "eng":"to sit down"
+        },
+
+        {
+            "ita":"leggere",
+            "eng":"to read"
+        },
+
+        {
+            "ita":"cadere",
+            "eng":"to fall"
+        },
+
+        {
+            "ita":"mangiare",
+            "eng":"to eat"
+        },
+
+        {
+            "ita":"dormire",
+            "eng":"to sleep"
+        },
+
+        {
+            "ita":"raggiungere",
+            "eng":"to reach"
+        },
+
+        {
+            "ita":"comprendere",
+            "eng":"to understand"
+        },
+
+        {
+            "ita":"scendere",
+            "eng":"to alight"
+        },
+
+        {
+            "ita":"compiere",
+            "eng":"to fulfill"
+        },
+
+        {
+            "ita":"toccare",
+            "eng":"to touch"
+        },
+
+        {
+            "ita":"considerare",
+            "eng":"to consider"
+        },
+
+        {
+            "ita":"muovere",
+            "eng":"to move"
+        },
+
+        {
+            "ita":"stringere",
+            "eng":"to tighten"
+        },
+
+        {
+            "ita":"mandare",
+            "eng":"to send"
+        },
+
+        {
+            "ita":"domandare",
+            "eng":"to ask"
+        },
+
+        {
+            "ita":"ascoltare",
+            "eng":"to listen"
+        },
+
+        {
+            "ita":"decidere",
+            "eng":"to decide"
+        },
+
+        {
+            "ita":"ricevere",
+            "eng":"to receive"
+        },
+
+        {
+            "ita":"osservare",
+            "eng":"to observe"
+        },
+
+        {
+            "ita":"permettere",
+            "eng":"to allow"
+        },
+
+        {
+            "ita":"avvenire",
+            "eng":"to occur"
+        },
+
+        {
+            "ita":"spiegare",
+            "eng":"to explain"
+        },
+
+        {
+            "ita":"raccogliere",
+            "eng":"to collect"
+        },
+
+        {
+            "ita":"ottenere",
+            "eng":"to obtain"
+        },
+
+        {
+            "ita":"offrire",
+            "eng":"to offer"
+        },
+
+        {
+            "ita":"mostrare",
+            "eng":"to exhibit"
+        },
+
+        {
+            "ita":"accompagnare",
+             "eng":"to accompany"
+            },
+
+        {
+            "ita":"dimenticare",
+            "eng":"to forget"
+        },
+
+        {
+            "ita":"pregare",
+            "eng":"to pray"
+        },
+
+        {
+            "ita":"raccontare",
+            "eng":"to tell"
+        },
+
+        {
+            "ita":"bere",
+            "eng":"to drinking"
+        },
+
+        {
+            "ita":"ritornare",
+            "eng":"to return"
+        },
+
+        {
+            "ita":"cambiare",
+            "eng":"to change"
+        },
+
+        {
+            "ita":"dimostrare",
+            "eng":"to demonstrate"
+        },
+
+        {
+            "ita":"sperare",
+            "eng":"to hope"
+        },
+
+        {
+            "ita":"sposare",
+            "eng":"to marry"
+        },
+
+        {
+            "ita":"ammettere",
+            "eng":"to admit"
+        },
+
+        {
+            "ita":"fuggire",
+            "eng":"to run away"
+        },
+
+        {
+            "ita":"liberare",
+            "eng":"to free"
+        },
+
+        {
+            "ita":"riferire",
+            "eng":"to report"
+        },
+
+        {
+            "ita":"svegliare",
+            "eng":"to wake up"
+        },
+
+        {
+            "ita":"capitare",
+            "eng":"to happen"
+        },
+
+        {
+            "ita":"posare",
+            "eng":"to place"
+        },
+
+        {
+            "ita":"impedire",
+            "eng":"to prevent"
+        },
+
+        {
+            "ita":"gettare",
+            "eng":"to throw"
+        },
+
+        {
+            "ita":"vendere",
+            "eng":"to sell"
+        },
+
+        {
+            "ita":"distinguere",
+            "eng":"to distinguish"
+        },
+
+        {
+            "ita":"offendere",
+            "eng":"to offend"
+        },
+
+        {
+            "ita":"rimettere",
+            "eng":"to return"
+        },
+
+        {
+            "ita":"rompere",
+            "eng":"to break"
+        },
+
+        {
+            "ita":"godere",
+            "eng":"to enjoy"
+        },
+
+        {
+            "ita":"imporre",
+            "eng":"to impose"
+        },
+
+        {
+            "ita":"significare",
+            "eng":"to mean"
+        },
+
+        {
+            "ita":"desiderare",
+            "eng":"to desire"
+        },
+
+        {
+            "ita":"divertire",
+            "eng":"to amuse"
+        },
+
+        {
+            "ita":"volgere",
+            "eng":"to turn"
+        },
+
+        {
+            "ita":"giudicare",
+            "eng":"to judge"
+        },
+
+        {
+            "ita":"produrre",
+            "eng":"to produce"
+        },
+
+        {
+            "ita":"avvicinare",
+            "eng":"to approach"
+        },
+
+        {
+            "ita":"diffondere",
+            "eng":"to spread"
+        },
+
+        {
+            "ita":"ordinare",
+            "eng":"to sort"
+        },
+
+        {
+            "ita":"invitare",
+            "eng":"to invite"
+        },
+
+        {
+            "ita":"discutere",
+            "eng":"to discuss"
+        },
+
+        {
+            "ita":"sbagliare",
+            "eng":"to make a mistake"
+        },
+
+        {
+            "ita":"badare",
+            "eng":"to look after"
+        },
+
+        {
+            "ita":"tagliare",
+            "eng":"to cut"
+        },
+
+        {
+            "ita":"pubblicare",
+            "eng":"to publish"
+        },
+
+        {
+            "ita":"attaccare",
+            "eng":"to attack"
+        },
+
+        {
+            "ita":"imparare",
+            "eng":"to learn"
+        },
+
+        {
+            "ita":"prevedere",
+            "eng":"to forecast"
+        },
+
+        {
+            "ita":"scappare",
+            "eng":"to run away"
+        },
+
+        {
+            "ita":"spegnere",
+            "eng":"to switch off"
+        },
+
+        {
+            "ita":"annunciare",
+            "eng":"to announce"
+        },
+
+        {
+            "ita":"baciare",
+            "eng":"to kiss"
+        },
+
+        {
+            "ita":"esporre",
+            "eng":"to expose"
+        },
+
+        {
+            "ita":"attraversare",
+            "eng":"go across"
+        },
+
+        {
+            "ita":"fornire",
+            "eng":"to provide"
+        },
+
+        {
+            "ita":"segnare",
+            "eng":"to mark"
+        },
+
+        {
+            "ita":"superare",
+            "eng":"to overcome"
+        },
+
+        {
+            "ita":"rivedere",
+            "eng":"to review"
+        },
+
+        {
+            "ita":"allontanare",
+            "eng":"to remove"
+        },
+
+        {
+            "ita":"ammazzare",
+            "eng":"to kill"
+        },
+
+        {
+            "ita":"accogliere",
+            "eng":"to receive"
+        },
+
+        {
+            "ita":"voltare",
+            "eng":"to turn"
+        },
+
+        {
+            "ita":"preoccupare",
+            "eng":"to worry"
+        },
+
+        {
+            "ita":"provocare",
+            "eng":"to cause"
+        },
+
+        {
+            "ita":"riempire",
+            "eng":"to fill"
+        },
+
+        {
+            "ita":"partecipare",
+            "eng":"to take part"
+        },
+
+        {
+            "ita":"piantare",
+            "eng":"to plant"
+        },
+
+        {
+            "ita":"rientrare",
+            "eng":"to re-enter"
+        },
+
+        {
+            "ita":"richiedere",
+            "eng":"to request"
+        },
+
+        {
+            "ita":"nascondere",
+            "eng":"to hide"
+        },
+
+        {
+            "ita":"ripetere",
+            "eng":"to repeat"
+        },
+
+        {
+            "ita":"scoprire",
+            "eng":"to discover"
+        },
+
+        {
+            "ita":"preparare",
+            "eng":"prepare"
+        },
+
+        {
+            "ita":"scorrere",
+            "eng":"to slide"
+        },
+
+        {
+            "ita":"rappresentare",
+            "eng":"to represent"
+        },
+
+        {
+            "ita":"riprendere",
+            "eng":"to resume"
+        },
+
+        {
+            "ita":"costituire",
+            "eng":"to constitute"
+        },
+
+        {
+            "ita":"incontrare",
+            "eng":"to meet"
+        },
+
+        {
+            "ita":"valere",
+            "eng":"be worth"
+        },
+
+        {
+            "ita":"accorgersi",
+            "eng":"to notice"
+        },
+
+        {
+            "ita":"provare",
+            "eng":"to try"
+        },
+
+        {
+            "ita":"formare",
+            "eng":"to form"
+        },
+
+        {
+            "ita":"uccidere",
+            "eng":"to kill"
+        },
+
+        {
+            "ita":"tirare",
+            "eng":"to pull"
+        },
+
+        {
+            "ita":"togliere",
+            "eng":"to remove"
+        },
+
+        {
+            "ita":"notare",
+            "eng":"to notice"
+        },
+
+        {
+            "ita":"aggiungere",
+            "eng":"to add"
+        },
+
+        {
+            "ita":"succedere",
+            "eng":"to happen"
+        },
+
+        {
+            "ita":"pagare",
+            "eng":"to pay"
+        },
+
+        {
+            "ita":"tentare",
+            "eng":"to attempt"
+        },
+
+        {
+            "ita":"accadere",
+            "eng":"to happen"
+        },
+
+        {
+            "ita":"creare",
+            "eng":"to create"
+        },
+
+        {
+            "ita":"importare",
+            "eng":"to import"
+        },
+
+        {
+            "ita":"pesare",
+            "eng":"to weigh"
+        },
+
+        {
+            "ita":"usare",
+            "eng":"to use"
+        },
+
+        {
+            "ita":"accettare",
+            "eng":"to accept"
+        },
+
+        {
+            "ita":"indicare",
+            "eng":"to indicate"
+        },
+
+        {
+            "ita":"buttare",
+            "eng":"to throw"
+        },
+
+        {
+            "ita":"battere",
+            "eng":"to beat"
+        },
+
+        {
+            "ita":"interessare",
+            "eng":"to interest"
+        },
+
+        {
+            "ita":"sorridere",
+            "eng":"to smile"
+        },
+
+        {
+            "ita":"condurre",
+            "eng":"to conduct"
+        },
+
+        {
+            "ita":"disporre",
+            "eng":"to have"
+        },
+
+        {
+            "ita":"unire",
+            "eng":"to merge"
+        },
+
+        {
+            "ita":"aiutare",
+            "eng":"to help"
+        },
+
+        {
+            "ita":"piangere",
+            "eng":"to cry"
+        },
+
+        {
+            "ita":"girare",
+            "eng":"to turn"
+        },
+
+        {
+            "ita":"levare",
+            "eng":"to lift"
+        },
+
+        {
+            "ita":"soffrire",
+            "eng":"to suffer"
+        },
+
+        {
+            "ita":"recare",
+            "eng":"to cause"
+        },
+
+        {
+            "ita":"riguardare",
+            "eng":"to concern"
+        },
+
+        {
+            "ita":"rivolgere",
+            "eng":"to turn"
+        },
+
+        {
+            "ita":"tacere",
+            "eng":"to be silent"
+        },
+
+        {
+            "ita":"occorrere",
+            "eng":"to take"
+        },
+
+        {
+            "ita":"porre",
+            "eng":"to place"
+        },
+
+        {
+            "ita":"vincere",
+            "eng":"to win"
+        },
+
+        {
+            "ita":"svolgere",
+            "eng":"to perform"
+        },
+
+        {
+            "ita":"studiare",
+            "eng":"to study"
+        },
+
+        {
+            "ita":"crescere",
+            "eng":"to grow up"
+        },
+
+        {
+            "ita":"divenire",
+            "eng":"to become"
+        },
+
+        {
+            "ita":"gridare",
+            "eng":"to shout"
+        },
+
+        {
+            "ita":"dichiarare",
+            "eng":"to declare"
+        },
+
+        {
+            "ita":"contare",
+            "eng":"to count"
+        },
+
+        {
+            "ita":"giocare",
+            "eng":"to play"
+        },
+
+        {
+            "ita":"assistere",
+            "eng":"to assist"
+        },
+
+        {
+            "ita":"aumentare",
+            "eng":"to increase"
+        },
+
+        {
+            "ita":"lanciare",
+            "eng":"to launch"
+        },
+
+        {
+            "ita":"determinare",
+            "eng":"to determine"
+        },
+
+        {
+            "ita":"scherzare",
+            "eng":"to joke"
+        },
+
+        {
+            "ita":"elevare",
+            "eng":"to raise"
+        },
+
+        {
+            "ita":"promettere",
+            "eng":"to promise"
+        },
+
+        {
+            "ita":"scomparire",
+            "eng":"to disappear"
+        },
+
+        {
+            "ita":"trarre",
+            "eng":"to draw"
+        },
+
+        {
+            "ita":"distruggere",
+            "eng":"to destroy"
+        },
+
+        {
+            "ita":"meritare",
+            "eng":"to deserve"
+        },
+
+        {
+            "ita":"dedicare",
+            "eng":"to devote"
+        },
+
+        {
+            "ita":"iniziare",
+            "eng":"to start"
+        },
+
+        {
+            "ita":"sorprendere",
+            "eng":"to surprise"
+        },
+
+        {
+            "ita":"trasformare",
+            "eng":"to commute"
+        },
+
+        {
+            "ita":"confessare",
+            "eng":"to confess"
+        },
+
+        {
+            "ita":"arrestare",
+            "eng":"to stop"
+        },
+
+        {
+            "ita":"ringraziare",
+            "eng":"to thank"
+        },
+
+        {
+            "ita":"riunire",
+            "eng":"to gather"
+        },
+
+        {
+            "ita":"volare",
+            "eng":"to fly"
+        },
+
+        {
+            "ita":"fondare",
+            "eng":"to found"
+        },
+
+        {
+            "ita":"guidare",
+            "eng":"to drive"
+        },
+
+        {
+            "ita":"ferire",
+            "eng":"to hurt"
+        },
+
+        {
+            "ita":"opporre",
+            "eng":"to oppose"
+        },
+
+        {
+            "ita":"procedere",
+            "eng":"to proceed"
+        },
+
+        {
+            "ita":"smettere",
+            "eng":"to stop"
+        },
+
+        {
+            "ita":"consentire",
+            "eng":"to allow"
+        },
+
+        {
+            "ita":"innamorarsi",
+            "eng":"to fall in love"
+        },
+
+        {
+            "ita":"organizzare",
+            "eng":"to organize"
+        },
+
+        {
+            "ita":"rifiutare",
+            "eng":"to reject"
+        },
+
+        {
+            "ita":"riportare",
+            "eng":"to report"
+        },
+
+        {
+            "ita":"dipendere",
+            "eng":"to depend"
+        },
+
+        {
+            "ita":"provvedere",
+            "eng":"to provide"
+        },
+
+        {
+            "ita":"trascinare",
+            "eng":"to drag"
+        },
+
+        {
+            "ita":"fumare",
+            "eng":"to smoke"
+        },
+
+        {
+            "ita":"scoppiare",
+            "eng":"to burst"
+        },
+
+        {
+            "ita":"sognare",
+            "eng":"to dream"
+        },
+
+        {
+            "ita":"appoggiare",
+            "eng":"to support"
+        },
+
+        {
+            "ita":"armare",
+            "eng":"to arm"
+        },
+
+        {
+            "ita":"celebrare",
+            "eng":"to celebrate"
+        },
+
+        {
+            "ita":"descrivere",
+            "eng":"to describe"
+        },
+
+        {
+            "ita":"resistere",
+            "eng":"to resist"
+        },
+
+        {
+            "ita":"bruciare",
+            "eng":"to burn"
+        },
+
+        {
+            "ita":"colpire",
+            "eng":"to hit"
+        },
+
+        {
+            "ita":"estendere",
+            "eng":"to extend"
+        },
+
+        {
+            "ita":"staccare",
+            "eng":"to remove"
+        },
+
+        {
+            "ita":"affrontare",
+            "eng":"to face up to"
+        },
+
+        {
+            "ita":"avanzare",
+            "eng":"to push forward"
+        },
+
+        {
+            "ita":"comporre",
+            "eng":"to compose"
+        },
+
+        {
+            "ita":"escludere",
+            "eng":"to exclude"
+        },
+
+        {
+            "ita":"figurare",
+            "eng":"to appear"
+        },
+
+        {
+            "ita":"insistere",
+            "eng":"to insist"
+        },
+
+        {
+            "ita":"il",
+            "eng":"the"
+        },
+
+        {
+            "ita":"di",
+            "eng":"of"
+        },
+
+        {
+            "ita":"e",
+            "eng":"is"
+        },
+
+        {
+            "ita":"a",
+            "eng":"to"
+        },
+
+        {
+            "ita":"un",
+            "eng":"a"
+        },
+
+        {
+            "ita":"in",
+            "eng":"in"
+        },
+
+        {
+            "ita":"che",
+            "eng":"that"
+        },
+
+        {
+            "ita":"non",
+            "eng":"not"
+        },
+
+        {
+            "ita":"si",
+            "eng":"Yes"
+        },
+
+        {
+            "ita":"da",
+            "eng":"from"
+        },
+
+        {
+            "ita":"lo",
+            "eng":"the"
+        },
+
+        {
+            "ita":"per",
+            "eng":"for"
+        },
+
+        {
+            "ita":"con",
+            "eng":"with"
+        },
+
+        {
+            "ita":"ma",
+            "eng":"but"
+        },
+
+        {
+            "ita":"come",
+            "eng":"how"
+        },
+
+        {
+            "ita":"su",
+            "eng":"up"
+        },
+
+        {
+            "ita":"mi",
+            "eng":"me"
+        },
+
+        {
+            "ita":"anche",
+            "eng":"also"
+        },
+
+        {
+            "ita":"o",
+            "eng":"or"
+        },
+
+        {
+            "ita":"io",
+            "eng":"I"
+        },
+
+        {
+            "ita":"se",
+            "eng":"self"
+        },
+
+        {
+            "ita":"perché",
+            "eng":"because"
+        },
+
+        {
+            "ita":"li",
+            "eng":"there"
+        },
+
+        {
+            "ita":"ci",
+            "eng":"us"
+        },
+
+        {
+            "ita":"ne",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"lei",
+            "eng":"she"
+        },
+
+        {
+            "ita":"ancora",
+            "eng":"yet"
+        },
+
+        {
+            "ita":"tu",
+            "eng":"you"
+        },
+
+        {
+            "ita":"lui",
+            "eng":"he"
+        },
+
+        {
+            "ita":"senza",
+            "eng":"without"
+        },
+
+        {
+            "ita":"bene",
+            "eng":"well"
+        },
+
+        {
+            "ita":"cui",
+            "eng":"which"
+        },
+
+        {
+            "ita":"chi",
+            "eng":"who"
+        },
+
+        {
+            "ita":"già",
+            "eng":"already"
+        },
+
+        {
+            "ita":"dopo",
+            "eng":"after"
+        },
+
+        {
+            "ita":"uno",
+            "eng":"one"
+        },
+
+        {
+            "ita":"noi",
+            "eng":"we"
+        },
+
+        {
+            "ita":"dove",
+            "eng":"where"
+        },
+
+        {
+            "ita":"qui",
+            "eng":"here"
+        },
+
+        {
+            "ita":"no",
+            "eng":"no"
+        },
+
+        {
+            "ita":"allora",
+            "eng":"then"
+        },
+
+        {
+            "ita":"tra",
+            "eng":"between"
+        },
+
+        {
+            "ita":"vi",
+            "eng":"you"
+        },
+
+        {
+            "ita":"ora",
+            "eng":"Now"
+        },
+
+        {
+            "ita":"fra",
+            "eng":"between"
+        },
+
+        {
+            "ita":"prima",
+            "eng":"before"
+        },
+
+        {
+            "ita":"forse",
+            "eng":"perhaps"
+        },
+
+        {
+            "ita":"sì",
+            "eng":"Yup"
+        },
+
+        {
+            "ita":"sotto",
+            "eng":"under"
+        },
+
+        {
+            "ita":"voi",
+            "eng":"you"
+        },
+
+        {
+            "ita":"fino",
+            "eng":"till"
+        },
+
+        {
+            "ita":"oggi",
+            "eng":"today"
+        },
+
+        {
+            "ita":"quasi",
+            "eng":"almost"
+        },
+
+        {
+            "ita":"pure",
+            "eng":"also"
+        },
+
+        {
+            "ita":"egli",
+            "eng":"he"
+        },
+
+        {
+            "ita":"mentre",
+            "eng":"while"
+        },
+
+        {
+            "ita":"contro",
+            "eng":"versus"
+        },
+
+        {
+            "ita":"invece",
+            "eng":"instead"
+        },
+
+        {
+            "ita":"esso",
+            "eng":"it"
+        },
+
+        {
+            "ita":"là",
+            "eng":"there"
+        },
+
+        {
+            "ita":"però",
+            "eng":"However"
+        },
+
+        {
+            "ita":"né",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"subito",
+            "eng":"immediately"
+        },
+
+        {
+            "ita":"verso",
+            "eng":"towards"
+        },
+
+        {
+            "ita":"ciò",
+            "eng":"it"
+        },
+
+        {
+            "ita":"ecco",
+            "eng":"here"
+        },
+
+        {
+            "ita":"loro",
+            "eng":"their"
+        },
+
+        {
+            "ita":"essa",
+            "eng":"it"
+        },
+
+        {
+            "ita":"fuori",
+            "eng":"outside"
+        },
+
+        {
+            "ita":"meno",
+            "eng":"less"
+        },
+
+        {
+            "ita":"adesso",
+            "eng":"now"
+        },
+
+        {
+            "ita":"niente",
+            "eng":"nothing"
+        },
+
+        {
+            "ita":"cioè",
+            "eng":"that is"
+        },
+
+        {
+            "ita":"male",
+            "eng":"bad"
+        },
+
+        {
+            "ita":"nulla",
+            "eng":"nothing"
+        },
+
+        {
+            "ita":"ah",
+            "eng":"ha"
+        },
+
+        {
+            "ita":"oh",
+            "eng":"Oh"
+        },
+
+        {
+            "ita":"quindi",
+            "eng":"then"
+        },
+
+        {
+            "ita":"appena",
+            "eng":"as soon as"
+        },
+
+        {
+            "ita":"insieme",
+            "eng":"together"
+        },
+
+        {
+            "ita":"dunque",
+            "eng":"therefore"
+        },
+
+        {
+            "ita":"dentro",
+            "eng":"inside"
+        },
+
+        {
+            "ita":"durante",
+            "eng":"during"
+        },
+
+        {
+            "ita":"almeno",
+            "eng":"at least"
+        },
+
+        {
+            "ita":"secondo",
+            "eng":"second"
+        },
+
+        {
+            "ita":"anzi",
+            "eng":"rather"
+        },
+
+        {
+            "ita":"oramai",
+            "eng":"now"
+        },
+
+        {
+            "ita":"oltre",
+            "eng":"over"
+        },
+
+        {
+            "ita":"intorno",
+            "eng":"around"
+        },
+
+        {
+            "ita":"sopra",
+            "eng":"above"
+        },
+
+        {
+            "ita":"dietro",
+            "eng":"behind"
+        },
+
+        {
+            "ita":"davanti",
+            "eng":"in front of"
+        },
+
+        {
+            "ita":"soltanto",
+            "eng":"only"
+        },
+
+        {
+            "ita":"infatti",
+            "eng":"indeed"
+        },
+
+        {
+            "ita":"qualcosa",
+            "eng":"something"
+        },
+
+        {
+            "ita":"spesso",
+            "eng":"often"
+        },
+
+        {
+            "ita":"accordo",
+            "eng":"agreement"
+        },
+
+        {
+            "ita":"ieri",
+            "eng":"yesterday"
+        },
+
+        {
+            "ita":"davvero",
+            "eng":"really"
+        },
+
+        {
+            "ita":"lì",
+            "eng":"there"
+        },
+
+        {
+            "ita":"qualcuno",
+            "eng":"someone"
+        },
+
+        {
+            "ita":"avanti",
+            "eng":"come on"
+        },
+
+        {
+            "ita":"assai",
+            "eng":"very"
+        },
+
+        {
+            "ita":"presto",
+            "eng":"soon"
+        },
+
+        {
+            "ita":"qua",
+            "eng":"here"
+        },
+
+        {
+            "ita":"domani",
+            "eng":"tomorrow"
+        },
+
+        {
+            "ita":"circa",
+            "eng":"about"
+        },
+
+        {
+            "ita":"giù",
+            "eng":"down"
+        },
+
+        {
+            "ita":"soprattutto",
+            "eng":"mostly"
+        },
+
+        {
+            "ita":"nemmeno",
+            "eng":"not even"
+        },
+
+        {
+            "ita":"grazie",
+            "eng":"thank you"
+        },
+
+        {
+            "ita":"tuttavia",
+            "eng":"however"
+        },
+
+        {
+            "ita":"appunto",
+            "eng":"just"
+        },
+
+        {
+            "ita":"neppure",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"eh",
+            "eng":"huh"
+        },
+
+        {
+            "ita":"veramente",
+            "eng":"really"
+        },
+
+        {
+            "ita":"tardi",
+            "eng":"late"
+        },
+
+        {
+            "ita":"insomma",
+            "eng":"in conclusion"
+        },
+
+        {
+            "ita":"presso",
+            "eng":"At"
+        },
+
+        {
+            "ita":"intanto",
+            "eng":"in the meantime"
+        },
+
+        {
+            "ita":"lungo",
+            "eng":"long"
+        },
+
+        {
+            "ita":"neanche",
+            "eng":"neither"
+        },
+
+        {
+            "ita":"piuttosto",
+            "eng":"Rather"
+        },
+
+        {
+            "ita":"stasera",
+            "eng":"tonight"
+        },
+
+        {
+            "ita":"perciò",
+            "eng":"therefore"
+        },
+
+        {
+            "ita":"naturalmente",
+            "eng":"of course, naturally"
+        },
+
+        {
+            "ita":"accanto",
+            "eng":"next"
+        },
+
+        {
+            "ita":"eppure",
+            "eng":"but yet"
+        },
+
+        {
+            "ita":"eccetera",
+            "eng":"etc"
+        },
+
+        {
+            "ita":"finalmente",
+            "eng":"finally"
+        },
+
+        {
+            "ita":"infine",
+            "eng":"finally"
+        },
+
+        {
+            "ita":"poiché",
+            "eng":"as"
+        },
+
+        {
+            "ita":"comunque",
+            "eng":"However"
+        },
+
+        {
+            "ita":"dinanzi",
+            "eng":"before"
+        },
+
+        {
+            "ita":"abbastanza",
+            "eng":"enough"
+        },
+
+        {
+            "ita":"peccato",
+            "eng":"sin"
+        },
+
+        {
+            "ita":"certamente",
+            "eng":"certainly"
+        },
+
+        {
+            "ita":"coloro",
+            "eng":"they"
+        },
+
+        {
+            "ita":"attorno",
+            "eng":"about"
+        },
+
+        {
+            "ita":"magari",
+            "eng":"maybe"
+        },
+
+        {
+            "ita":"oppure",
+            "eng":"or"
+        },
+
+        {
+            "ita":"inoltre",
+            "eng":"Moreover"
+        },
+
+        {
+            "ita":"indietro",
+            "eng":"back"
+        },
+
+        {
+            "ita":"addosso",
+            "eng":"on"
+        },
+
+        {
+            "ita":"addirittura",
+            "eng":"even"
+        },
+
+        {
+            "ita":"finché",
+            "eng":"as long as"
+        },
+
+        {
+            "ita":"perfino",
+            "eng":"even"
+        },
+
+        {
+            "ita":"affatto",
+            "eng":"at all"
+        },
+
+        {
+            "ita":"stamattina",
+            "eng":"This morning"
+        },
+
+        {
+            "ita":"completamente",
+             "eng":"completely"
+        },
+
+        {
+            "ita":"probabilmente",
+            "eng":"probably"
+        },
+
+        {
+            "ita":"chissà",
+            "eng":"who knows"
+        },
+
+        {
+            "ita":"ognuno",
+            "eng":"each one"
+        },
+
+        {
+            "ita":"entro",
+            "eng":"within"
+        }
+
+    ]
+}
