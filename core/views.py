@@ -7,7 +7,9 @@ def get_words():
     with open("core/data/ita_words.json", "r") as file:
         data = json.load(file)
 
-    word_index = randint(0, 100)
+    word_count = len(data["words"]) # Count how many words there are in ita_words.json
+
+    word_index = randint(0, word_count)
 
     word = {
         "ita_word":data["words"][word_index]["ita"],
