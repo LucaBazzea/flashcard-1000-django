@@ -2,8 +2,7 @@ from django.shortcuts import render
 import json
 from random import randint
 
-def get_words():
-    
+def get_words():  
     with open("core/data/ita_words.json", "r") as file:
         data = json.load(file)
 
@@ -19,7 +18,7 @@ def get_words():
     return word
 
 
-def index(request):
+def get_index(request):
     context = {
         "word":get_words()
     }
