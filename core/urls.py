@@ -21,6 +21,6 @@ from . import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("", views.get_index, name="get_index"),
-    path("unicorn/", include("django_unicorn.urls")),
-    path("next-word", views.get_words, name="get_words")
+
+    path("unicorn/", include("django_unicorn.urls"))
 ]
