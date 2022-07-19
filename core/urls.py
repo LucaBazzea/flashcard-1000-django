@@ -22,5 +22,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path("", views.get_index, name="get_index"),
 
-    path("unicorn/", include("django_unicorn.urls"))
 ]
